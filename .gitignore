@@ -1,3 +1,5 @@
 # sencha
 
 build
+bootstrap.*
+sass/example
