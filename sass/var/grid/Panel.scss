@@ -1,0 +1,25 @@
+$grid-header-background-color: rgba(0, 0, 0, 0); // transparent not working because of mix()
+$grid-header-border-width: 0;
+$grid-column-header-border-width: 0;
+$grid-column-header-color: rgb(136, 136, 136); // not real material text color
+$grid-column-header-font-weight: 500;
+$grid-column-header-line-height: 39px;
+
+
+$grid-row-border-color: rgb(227, 227, 227);
+$grid-row-cell-alt-background-color: white;
+$grid-row-cell-color: $material-color-black-secondary;
+$grid-row-cell-line-height: $grid-column-header-line-height;
+
+
+// $grid-column-header-color: $material-color-black-secondary;
+
+//$grid-body-border-color: #c4c4c4;
+//$grid-body-border-width: 1px;
+//$grid-body-border-style: solid;
+
+
+
+//$grid-row-cell-selected-background-color: white;
+////$grid-row-cell-selected-border-color: rgb(227, 227, 227);
+//$grid-row-cell-selected-border-color: red;

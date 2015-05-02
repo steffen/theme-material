@@ -1,0 +1,22 @@
+// font colors
+// http://www.google.com/design/spec/style/color.html#color-ui-color-application
+
+$material-color-black: rgba(0, 0, 0, 0.87); // text
+$material-color-black-secondary: rgba(0, 0, 0, 0.54); // secondary text and icons
+$material-color-black-hint: rgba(0, 0, 0, 0.26); // disabled and hint text
+$material-color-black-dividers: rgba(0, 0, 0, 0.12); // dividers
+
+$material-color-white: rgba(255, 255, 255, 1); // text and icons
+$material-color-white-secondary: rgba(255, 255, 255, 0.7); // secondary text
+$material-color-white-hint: rgba(255, 255, 255, 0.3); // disabled and hint text
+$material-color-white-dividers: rgba(255, 255, 255, 0.12); // dividers
+
+
+// icon colors
+// http://www.google.com/design/spec/style/icons.html#icons-system-icons
+
+$material-icon-color-black-active: $material-color-black-secondary;
+$material-icon-color-black-inactive: $material-color-black-hint;
+
+$material-icon-color-white-active: $material-color-white;
+$material-icon-color-white-inactive: $material-color-white-hint;

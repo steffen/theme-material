@@ -1,0 +1,110 @@
+html {
+    font-size: 15px;
+}
+
+.x-form-item-label {
+    position: absolute;
+    top: 12px;
+
+    height: 22px;
+
+    color: #9E9E9E;
+    font-size: 15px;
+    line-height: 1.5;
+
+    @include transition(all 0s ease-out 0s);
+
+    .x-field-focus &,
+    .not-empty & {
+        font-size: 12px;
+        @include transform(translateY(-26px));
+    }
+
+    .x-field-focus & {
+        color: $base-color;
+    }
+
+    .x-field-focus &,
+    .had-focus & {
+        @include transition-duration(0.2s);
+    }
+}
+
+.x-form-text-default {
+    background-color: transparent;
+    border: none;
+    border-bottom: 1px solid #9e9e9e;
+    outline: none;
+    height: 3rem;
+    width: 100%;
+    font-size: 1rem;
+    margin: 0 0 15px 0;
+    padding: 0;
+
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+    -webkit-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    box-sizing: content-box;
+
+    -webkit-transition: 0.3s;
+    -moz-transition: 0.3s;
+    -o-transition: 0.3s;
+    -ms-transition: 0.3s;
+    transition: 0.3s;
+
+    &,
+    &.x-form-textarea {
+        line-height: 1.5;
+        padding: 8px 0;
+    }
+
+//    &.x-form-textarea {
+//        padding-top: 16px;
+//        padding-bottom: 16px;
+//    }
+}
+
+.x-form-trigger-wrap-default {
+    border: none;
+}
+
+.x-webkit .x-form-text {
+    height: calc(100% - 21px);
+}
+
+//.x-webkit .x-form-text {
+//    height: 3rem;
+//}
+
+.x-form-type-text {
+    position: relative;
+    margin-top: 17px;
+}
+
+.x-field-focus .x-form-text-default {
+    border-bottom: 1px solid $base-color;
+    -webkit-box-shadow: 0 1px 0 0 $base-color;
+    -moz-box-shadow: 0 1px 0 0 $base-color;
+    box-shadow: 0 1px 0 0 $base-color;
+}
+
+.x-form-item-label-default.x-form-item-label-top > .x-form-item-label-inner {
+    padding: 0;
+}
+
+.x-form-item-label-default {
+    padding: 0;
+//    padding-left: 1px; // due to a chrome bug, table-cell moves text field 1px to right
+}
+
+.x-form-text-field-body-default {
+    min-width: 170px;
+    max-width: none;
+}
+
+// wouldn't display full width with removing table-cell
+.x-form-item-body {
+    display: block;
+}

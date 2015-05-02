@@ -1,0 +1,21 @@
+.x-window {
+    &,
+    .x-window-header,
+    .x-docked-bottom {
+        @include border-radius(2px);
+    }
+
+    @extend .z-depth-2;
+
+    .x-toolbar-docked-bottom {
+        height: 48px;
+        border-top: 1px solid $material-color-black-dividers !important;
+        padding-right: 8px;
+        padding-bottom: 8px;
+    }
+
+    .x-btn {
+        height: 36px;
+        min-width: 88px;
+    }
+}

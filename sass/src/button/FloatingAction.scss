@@ -1,0 +1,29 @@
+//@include extjs-button-ui(
+//    $ui: 'floating-action',
+//
+//    $border-radius: 5px
+//);
+
+//.z-depth-1 {
+//    @include box-shadow(0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12));
+//}
+//
+//.z-depth-1-half {
+//    @include box-shadow(0 5px 11px 0 rgba(0, 0, 0, 0.18), 0 4px 15px 0 rgba(0, 0, 0, 0.15));
+//}
+
+.x-btn-floating-action {
+    color: $floating-action-button-color;
+    background-color: $floating-action-button-background-color;
+    font-size: 24px;
+
+    @include border-radius(50%);
+
+    @include transition(all .3s ease-out);
+
+    @extend .z-depth-1;
+
+    &:hover:not(.x-btn-disabled) {
+        @extend .z-depth-1-half;
+    }
+}

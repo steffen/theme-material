@@ -1,0 +1,39 @@
+//.#{$prefix}padded-grid {
+
+.#{$prefix}grid {
+    background-color: rgb(238, 238, 238);
+
+    .x-grid-body {
+        border: none;
+    }
+
+    .x-grid-view {
+        border: 1px solid #d3d3d3;
+        border-bottom: 1px solid #c4c4c4;
+
+        @include box-shadow(0 1px 0 rgba(0, 0, 0, 0.07));
+    }
+}
+
+.#{$prefix}grid {
+    .bold .x-grid-cell-inner {
+        font-weight: 500;
+        color: #444;
+    }
+}
+
+.#{$prefix}grid {
+    .#{$prefix}column-header-over,
+    .#{$prefix}column-header-sort-ASC,
+    .#{$prefix}column-header-sort-DESC {
+        background: transparent;
+    }
+}
+
+.#{$prefix}grid {
+    .x-grid-row {
+        .x-grid-cell {
+            cursor: pointer;
+        }
+    }
+}

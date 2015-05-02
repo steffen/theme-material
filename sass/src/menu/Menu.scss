@@ -1,0 +1,16 @@
+@include extjs-menu-ui(
+    $ui: 'drawer'
+);
+
+.x-menu-header-drawer {
+//.x-menu-header {
+    background-color: white;
+    font-size: $panel-header-font-size;
+    border-bottom: 1px solid #ddd !important;
+
+    .x-btn-icon-el-default-medium.x-btn-glyph {
+        color: #333;
+        font-size: 24px;
+        line-height: 24px;
+    }
+}

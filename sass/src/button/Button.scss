@@ -1,0 +1,39 @@
+@import 'FloatingAction';
+
+.x-header .x-btn {
+    background: transparent;
+    border: none;
+
+    .x-btn-icon-el-default-medium.x-btn-glyph {
+        opacity: 1;
+    }
+}
+
+
+@include extjs-button-toolbar-medium-ui(
+    $ui: 'default',
+
+    $color: $base-color,
+
+    $border-radius: 2px,
+    $border-width: 0px,
+
+    $border-color: transparent,
+    $border-color-over: transparent,
+
+    $background-color: transparent,
+    $background-color-over: rgba(153, 153, 153, 0.2),
+    $background-color-pressed: rgba(153, 153, 153, 0.4),
+
+    $inner-border-width-focus: 0px,
+    $inner-border-width-focus-over: 0px,
+    $inner-border-width-focus-pressed: 0px,
+
+    $font-weight: 500,
+
+    $opacity-disabled: 0.26
+);
+
+.x-btn-inner-default-toolbar-medium {
+    text-transform: uppercase;
+}
