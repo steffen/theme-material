@@ -6,9 +6,9 @@
 Ext.application({
     name: 'CM',
 
-    extend: 'CM.Application',
+    extend: 'CM.Application'
     
-    autoCreateViewport: 'CM.view.main.Main'
+    //autoCreateViewport: 'CM.view.Main'
 	
     //-------------------------------------------------------------------------
     // Most customizations should be made to CM.Application. If you need to

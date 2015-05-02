@@ -1,0 +1,86 @@
+[
+	{
+		"name": "Session",
+		"pluralName": "Sessions",
+		"fields": [
+			{
+				"name": "title",
+				"type": "string"
+			},
+			{
+				"name": "description",
+				"type": "string"
+			},
+			{
+				"name": "date",
+				"type": "string"
+			},
+			{
+				"name": "start_time",
+				"type": "string"
+			},
+			{
+				"name": "end_time",
+				"type": "string"
+			},
+			{
+				"name": "track",
+				"reference": "Track"
+			},
+			{
+				"name": "location",
+				"reference": "Location"
+			}
+		],
+		"manyToMany": "Speaker"
+	},
+	{
+		"name": "Speaker",
+		"pluralName": "Speakers",
+		"fields": [
+			{
+				"name": "name",
+				"type": "string"
+			},
+			{
+				"name": "title",
+				"type": "string"
+			},
+			{
+				"name": "company",
+				"type": "string"
+			},
+			{
+				"name": "bio",
+				"type": "string"
+			}
+		],
+		"manyToMany": "Session"
+	},
+	{
+		"name": "Track",
+		"pluralName": "Tracks",
+		"fields": [
+			{
+				"name": "name",
+				"type": "string"
+			},
+			{
+				"name": "order_index",
+				"type": "number"
+			}
+		],
+		"manyToMany": null
+	},
+	{
+		"name": "Location",
+		"pluralName": "Locations",
+		"fields": [
+			{
+				"name": "name",
+				"type": "string"
+			}
+		],
+		"manyToMany": null
+	}
+]

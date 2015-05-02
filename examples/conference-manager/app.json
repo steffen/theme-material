@@ -33,7 +33,8 @@
      * The name of the theme for this application.
      */
     
-    "theme": "ext-theme-neptune",
+    "theme": "theme-material",
+//    "theme": "ext-theme-neptune",
     
     /**
      * The list of required packages (with optional versions; default is "latest").
@@ -45,6 +46,7 @@
      *      ]
      */
     "requires": [
+        "scaffold"
     ],
 
     /**
@@ -104,9 +106,9 @@
      *
      */
     "js": [
-        {
-            "path": "${framework.dir}/build/ext-all-rtl-debug.js"
-        },
+//        {
+//            "path": "${framework.dir}/build/ext-all-rtl-debug.js"
+//        },
         {
             "path": "app.js",
             "bundle": true
