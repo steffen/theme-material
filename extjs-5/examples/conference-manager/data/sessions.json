@@ -1,0 +1,2329 @@
+[
+	{
+		"_id": "54f13bc1f38c9b0300f66563",
+		"title": "Materializing Ext JS",
+		"description": "Sencha Ext JS has always been a pioneer in widget libraries creating visual attractive interfaces out of the box allowing the creation of highly interactive single page applications. Not only did Sencha enhance the framework’s look throughout the years, but it also introduced powerful features to allow developers to customize the look and feel in an efficient way. One big step forward was the migration to Sass with Compass for styling which improved the code organization of CSS code immensely. Later the introduction of packages added support for easily adding custom themes that enhance an application’s style and components.\n\nIn 2014, Google announced Material design, a comprehensive guide for visual, motion, and interaction design across platforms and devices. Ever since, it has received praise by developers and designers. In this session, we’ll explore how to build a Material design interface on top of the most powerful enterprise JavaScript framework of today by leveraging its powerful customization features. We'll look into what makes a Material design interface, how to create a custom theme package, how to create custom components, how to create custom animations, how to make the same application mouse and touch friendly and how to make the interface responsive to desktop and tablet screens.",
+		"date": "2015-04-08",
+		"start_time": "4:40 PM",
+		"end_time": "5:30 PM",
+		"hashtag": "#materializingextjs",
+		"track": {
+			"_id": "54f13696d1bcf203004dafa5",
+			"name": "Design",
+			"order_index": 1,
+			"__v": 0
+		},
+		"location": {
+			"_id": "54fd3529a4198c0300081766",
+			"name": "Mission City Ballroom B4",
+			"__v": 0
+		},
+		"speakers": [
+			{
+				"_id": "54f13b4cf38c9b0300f66562",
+				"avatar_url": "http://cdn2.hubspot.net/hub/439787/file-2511562211-jpg/img/headshots/SteffenHiller.jpg?t=1424529046577&t=1424796153192",
+				"name": "Steffen Hiller",
+				"bio": "Steffen Hiller has been a loyal web developer since 1999. He likes to move pixels just as much as he likes to write code. While fighting here and there with plain PHP, HTML, JavaScript and CSS, his development experience took a major leap forward in 2007 when he started to work with two of today’s still leading web frameworks: Ruby on Rails and Ext JS. Since then he's enjoying Ruby and JavaScript on a daily basis. He has been working on numerous projects involving Ext JS and Sencha Touch. Steffen is working preferably close to the beach such as in Spain and Aruba, where he also tries to kitesurf as much as possible.",
+				"twitter_handle": "steffenhiller",
+				"sessions": [],
+				"__v": 0,
+				"company": "Sencha",
+				"title": "Senior Solutions Engineer"
+			}
+		],
+		"__v": 1,
+		"order_index": 0,
+		"survey_link": "https://www.surveymonkey.com/s/V62Q57S"
+	},
+	{
+		"_id": "54fd3412c57bbb03002c6f55",
+		"title": "Sencha Ext JS: From desktops to smartphones - For the legacy and the modern web",
+		"description": "Learn the how to use the latest version of Sencha Ext JS to create applications for all screens from desktop to smartphones. We will create a single application targeting all screens and talk about how to maximize code sharing while ensuring the best possible user experience across all devices.",
+		"date": "2015-04-08",
+		"start_time": "12:30 PM",
+		"end_time": "1:20 PM",
+		"hashtag": "",
+		"track": {
+			"_id": "54f1369dd1bcf203004dafa6",
+			"name": "Develop",
+			"order_index": 2,
+			"__v": 0
+		},
+		"speakers": [
+			{
+				"_id": "54fdd20612b592030001d4fb",
+				"avatar_url": "http://cdn2.hubspot.net/hub/439787/file-2511562181-jpg/img/headshots/DonGriffin.jpg?t=1424529046577&amp;t=1425695939615",
+				"name": "Don Griffin",
+				"bio": "Don Griffin is the engineering manager for Ext JS and Sencha Touch. He was an Ext JS user for 2 years before joining Sencha and has over 20 years of software engineering experience on a broad range of platforms. His experience includes designing web application front-ends and back-ends, native GUI applications, network protocols and device drivers. Don’s passion is to build world class products that people love to use.",
+				"twitter_handle": "",
+				"sessions": [],
+				"__v": 0,
+				"company": "Sencha",
+				"title": "Engineering Manager"
+			},
+			{
+				"_id": "54fdd20612b592030001d4fa",
+				"avatar_url": "http://cdn2.hubspot.net/hub/439787/file-2527770375-jpg/img/headshots/GautamAgrawal.jpg?t=1424529046577&amp;t=1425695939615",
+				"name": "Gautam Agrawal",
+				"bio": "Gautam Agrawal is the Director of Product Management for Sencha Frameworks and Tools. Prior to joining Sencha, he held various product and engineering positions at organizations developing SaaS and BI applications using Sencha technologies. He holds a PhD and MS from State University of NY (SUNY) at Buffalo.",
+				"twitter_handle": "",
+				"sessions": [],
+				"__v": 0,
+				"company": "Sencha",
+				"title": "Director, Product Management"
+			}
+		],
+		"__v": 1,
+		"location": {
+			"_id": "54fd35b7a4198c0300081768",
+			"name": "Mission City Ballroom B5",
+			"__v": 0
+		},
+		"order_index": 0,
+		"survey_link": "https://www.surveymonkey.com/s/VNRKHK9"
+	},
+	{
+		"_id": "5500ee787c4c0d0300331043",
+		"title": "Breakfast (for Training attendees only)",
+		"description": "",
+		"date": "2015-04-07",
+		"start_time": "8:00 AM",
+		"end_time": "9:00 AM",
+		"hashtag": "",
+		"location": {
+			"_id": "5500ee527c4c0d0300331042",
+			"name": "Grand Ballroom E & F",
+			"__v": 0
+		},
+		"speakers": [],
+		"__v": 0,
+		"track": {
+			"_id": "5500ef960deea20300d0d448",
+			"name": "Meals",
+			"order_index": 0,
+			"__v": 0
+		}
+	},
+	{
+		"_id": "550072d1106b410300aeb9c5",
+		"title": "Event Registration",
+		"description": "",
+		"date": "2015-04-07",
+		"start_time": "8:00 AM",
+		"end_time": "9:00 PM",
+		"hashtag": "",
+		"speakers": [],
+		"__v": 0,
+		"location": {
+			"_id": "5500d4517c4c0d0300331040",
+			"name": "Santa Clara Convention Center Main Lobby",
+			"__v": 0
+		},
+		"track": {
+			"_id": "5500f0350deea20300d0d44b",
+			"name": "Registration",
+			"order_index": 0,
+			"__v": 0
+		}
+	},
+	{
+		"_id": "5501346d0deea20300d0d468",
+		"title": "The Advanced Operation Portal built on Sencha Ext JS 5",
+		"description": "NTT developed an AOP (Advanced Operation Portal) for online services to their customers. The AOP helps with day-to-day operational assignments of field engineers to customers having network issues. When NTT embarked upon building the enterprise AOP, HTML5 was the obvious choice, given the diversity of devices and platforms being used in the field. After an extensive evaluation, Sencha was chosen as the development platform because: a) the rich set of components the Sencha Ext JS offers, and b) the cross-platform cross-browser (including legacy) compatibility of Sencha Ext JS widgets.\n\nIn this presentation, we will discuss the approach we took in designing, building and integrating the AOP with several existing systems within the NTT, and how we leveraged the Sencha Ext JS 5 for AOP to work across Desktops and Tablets. We will also touch upon our development process, and how we leveraged a Sencha partner in Japan, Xenophy, to help accelerate the development. The AOP received and internal NTT award for the best App built in 2014 - voted by NTT customers.\n\nSpeakers: Naoki Mashiko, NTT Communications Corporation & Kazuhiro Kotsutsumi, Xenophy Co., Ltd. ",
+		"date": "2015-04-09",
+		"start_time": "2:30 PM",
+		"end_time": "3:20 PM",
+		"hashtag": "",
+		"track": {
+			"_id": "54f1369dd1bcf203004dafa6",
+			"name": "Develop",
+			"order_index": 2,
+			"__v": 0
+		},
+		"location": {
+			"_id": "54fd35b7a4198c0300081767",
+			"name": "Mission City Ballroom M1",
+			"__v": 0
+		},
+		"speakers": [
+			{
+				"_id": "550a81bd7922d4030005a07d",
+				"avatar_url": "http://cdn2.hubspot.net/hub/439787/file-2619286042-jpg/img/headshots/NaokiMashiko.jpg",
+				"name": "Naoki Mashiko",
+				"title": "Manager, Quality Management, Customer Services",
+				"company": "NTT Communications Corporation",
+				"bio": "Naoki Mashiko is a network engineer at OCN operated by NTT Communications, which is one of the largest ISPs in Japan. From 2002 to 2006, he engaged in development/operating Layer2 VPN NW (Transparent Lan Switching). Since 2006, he has been in charge of operating the backbone network and the peering points between the network and other ISPs.",
+				"twitter_handle": "",
+				"sessions": [],
+				"__v": 0
+			},
+			{
+				"_id": "550a8204a9a9ae03002e1307",
+				"avatar_url": "http://cdn2.hubspot.net/hub/439787/file-2630875665-jpg/img/headshots/KazuhiroKotsutsumi.jpg",
+				"name": "Kazuhiro Kotsutsumi",
+				"title": "President & CEO",
+				"company": "Xenophy Co. Ltd",
+				"bio": "Kazuhiro Kotsutsumi established Xenophy in March 2006. Since 2008, he has translated documentation of Ext JS APIs into Japanese, and published technical guide book on Ext JS for Japanese developers in 2011. He is the most known specialist for Sencha in Japanese market.",
+				"twitter_handle": "",
+				"sessions": [],
+				"__v": 0
+			}
+		],
+		"__v": 1,
+		"order_index": 0,
+		"survey_link": "https://www.surveymonkey.com/s/VPLLQLK"
+	},
+	{
+		"_id": "550133d70deea20300d0d467",
+		"title": "Advanced techniques for compressing your applications ",
+		"description": "For years developers have been told that they must optimize their production code in order to deliver prompt user experiences. The proliferation of mobile devices makes this advice even more critical, where sub-second delays in rendering can lead to user frustration and lost revenue. However, most developers don’t realize that they can squeeze even more performance out of their applications by tweaking how compression tools optimize your code. Join Arthur Kay for a technical deep dive into how Sencha Cmd utilizes YUI Compressor, Google Closure and UglifyJS -- and learn some advanced techniques for delivering the smallest possible applications.",
+		"date": "2015-04-09",
+		"start_time": "2:30 PM",
+		"end_time": "3:20 PM",
+		"hashtag": "",
+		"track": {
+			"_id": "54f1369dd1bcf203004dafa6",
+			"name": "Develop",
+			"order_index": 2,
+			"__v": 0
+		},
+		"location": {
+			"_id": "54fd35b7a4198c0300081768",
+			"name": "Mission City Ballroom B5",
+			"__v": 0
+		},
+		"speakers": [
+			{
+				"_id": "54fdd20612b592030001d4fc",
+				"avatar_url": "http://cdn2.hubspot.net/hub/439787/file-2527770365-jpg/img/headshots/ArtKay.jpg?t=1424529046577&amp;t=1425695939615",
+				"name": "Arthur Kay",
+				"bio": "Arthur Kay has been working with the Web since the late 1990s, when GeoCities and scrolling marquees were all the rage. Since those early days, Arthur graduated from Loyola University Chicago (where he studied Music and Computer Science) and has worked in a variety of professional roles throughout the Internet industry. Arthur currently lives in the Chicago suburbs and works as Developer Relations Manager for Sencha, Inc.",
+				"twitter_handle": "",
+				"sessions": [],
+				"__v": 0,
+				"company": "Sencha",
+				"title": "Developer Relations Manager"
+			}
+		],
+		"__v": 1,
+		"order_index": 0,
+		"survey_link": "https://www.surveymonkey.com/s/VP7XZ32"
+	},
+	{
+		"_id": "54fdd24412b592030001d508",
+		"title": "Large enterprise systems need truly scalable frameworks with robust architecture",
+		"description": "Fast response time is the key to maintaining a superior user experience on modern web and app platforms. Providing consistently amazing usability is increasingly challenging for a number of reasons – aggressive product roadmaps to support rapid business growth, substantially larger code-base, client demand for tightly integrated solutions, and perhaps most importantly for eVestment, the exponential growth of our data cloud. Our engineering team was challenged to raise the bar for design, scalability, ease-of-use, and unprecedented performance with the latest version of the eVestment platform.\n\nDuring this session, we will explore how we have met the challenge with the latest version of the eVestment Platform with the help of Sencha Ext JS 5, the creative use of NoSQL and caching technologies, a fast prototyping mindset, and a modern service architecture. Session format will be an interactive and in-depth demonstration of the platform and the specific Ext frameworks and techniques that power our big data analytics for the world’s largest institutional investors and asset managers.",
+		"date": "2015-04-08",
+		"start_time": "12:30 PM",
+		"end_time": "1:20 PM",
+		"hashtag": "",
+		"track": {
+			"_id": "54f13696d1bcf203004dafa5",
+			"name": "Design",
+			"order_index": 1,
+			"__v": 0
+		},
+		"location": {
+			"_id": "54fd3529a4198c0300081766",
+			"name": "Mission City Ballroom B4",
+			"__v": 0
+		},
+		"speakers": [
+			{
+				"_id": "54fdd2030fc1100300fcf1d2",
+				"avatar_url": "http://cdn2.hubspot.net/hub/439787/file-2511562196-jpg/img/headshots/MitchellJohnson.jpg?t=1424529046577&amp;t=1425695939615",
+				"name": "Mitchell Johnson",
+				"bio": "Mitchell leads all aspects of global technology service fulfillment for eVestment. He participates as a member of the senior management team in the governance processes of the organization's new product roadmap, architecture, telecommunications, networks, applications, media, and corporate IT infrastructure and oversees the execution of technology initiatives in support of the business goals and priorities set by the organization. Prior to joining eVestment, Mitchell held a variety of positions at Equifax in product management, mergers and acquisitions, and technology. As Vice President of Technology, Mitchell led a team that developed and maintained internet solutions for a global, business-to-consumer business unit. Prior to Equifax, Mitchell worked in various managerial and technical roles for the Enterprise Technology practice at Hitachi Consulting and Delta Air Lines. He has a range of Information Technology experience including architecture, strategy, development, operations and business-technology alignment. Mitchell holds a BA in Management Science and a certificate in Information Systems from the Georgia Institute of Technology and an MBA from Emory University, where he graduated Beta Gamma Sigma and received the faculty award for Organization and Management.",
+				"twitter_handle": "",
+				"sessions": [],
+				"__v": 0,
+				"company": "eVestment",
+				"title": "Chief Technology Officer"
+			}
+		],
+		"__v": 1,
+		"order_index": 0,
+		"survey_link": "https://www.surveymonkey.com/s/V669MV3"
+	},
+	{
+		"_id": "5500ef637c4c0d0300331046",
+		"title": "Lunch (for Training attendees only)",
+		"description": "",
+		"date": "2015-04-07",
+		"start_time": "12:00 PM",
+		"end_time": "1:00 PM",
+		"hashtag": "",
+		"track": {
+			"_id": "5500ef960deea20300d0d448",
+			"name": "Meals",
+			"order_index": 0,
+			"__v": 0
+		},
+		"location": {
+			"_id": "5500ee527c4c0d0300331042",
+			"name": "Grand Ballroom E & F",
+			"__v": 0
+		},
+		"speakers": [],
+		"__v": 0
+	},
+	{
+		"_id": "5500f0060deea20300d0d449",
+		"title": "Sponsor Welcome Reception",
+		"description": "",
+		"date": "2015-04-07",
+		"start_time": "6:00 PM",
+		"end_time": "9:00 PM",
+		"hashtag": "",
+		"track": {
+			"_id": "5500efe07c4c0d0300331048",
+			"name": "Networking",
+			"order_index": 0,
+			"__v": 0
+		},
+		"location": {
+			"_id": "54fdd22d0fc1100300fcf1e2",
+			"name": "Community Pavilion - Exhibit Hall A",
+			"__v": 0
+		},
+		"speakers": [],
+		"__v": 0
+	},
+	{
+		"_id": "5500f0230deea20300d0d44a",
+		"title": "Event Registration",
+		"description": "",
+		"date": "2015-04-08",
+		"start_time": "7:00 AM",
+		"end_time": "5:00 PM",
+		"hashtag": "",
+		"location": {
+			"_id": "5500d4517c4c0d0300331040",
+			"name": "Santa Clara Convention Center Main Lobby",
+			"__v": 0
+		},
+		"speakers": [],
+		"__v": 0,
+		"track": {
+			"_id": "5500f0350deea20300d0d44b",
+			"name": "Registration",
+			"order_index": 0,
+			"__v": 0
+		}
+	},
+	{
+		"_id": "5500f0747c4c0d0300331049",
+		"title": "Community Pavilion Open",
+		"description": "",
+		"date": "2015-04-08",
+		"start_time": "7:00 AM",
+		"end_time": "5:00 PM",
+		"hashtag": "",
+		"track": {
+			"_id": "5500efe07c4c0d0300331048",
+			"name": "Networking",
+			"order_index": 0,
+			"__v": 0
+		},
+		"location": {
+			"_id": "54fdd22d0fc1100300fcf1e2",
+			"name": "Community Pavilion - Exhibit Hall A",
+			"__v": 0
+		},
+		"speakers": [],
+		"__v": 0
+	},
+	{
+		"_id": "5500f0aa7c4c0d030033104a",
+		"title": "Breakfast",
+		"description": "",
+		"date": "2015-04-08",
+		"start_time": "7:00 AM",
+		"end_time": "9:00 AM",
+		"hashtag": "",
+		"track": {
+			"_id": "5500ef960deea20300d0d448",
+			"name": "Meals",
+			"order_index": 0,
+			"__v": 0
+		},
+		"location": {
+			"_id": "54fdd22d0fc1100300fcf1e2",
+			"name": "Community Pavilion - Exhibit Hall A",
+			"__v": 0
+		},
+		"speakers": [],
+		"__v": 0
+	},
+	{
+		"_id": "5500f0da0deea20300d0d44c",
+		"title": "Keynote - Sencha Platform & the Future of HTML5",
+		"description": "",
+		"date": "2015-04-08",
+		"start_time": "9:00 AM",
+		"end_time": "11:30 AM",
+		"hashtag": "",
+		"track": {
+			"_id": "5500f0e40deea20300d0d44d",
+			"name": "Keynote",
+			"order_index": 0,
+			"__v": 0
+		},
+		"location": {
+			"_id": "54fdd22d0fc1100300fcf1e1",
+			"name": "Theater - 2nd Floor",
+			"__v": 0
+		},
+		"speakers": [
+			{
+				"_id": "54fdd20612b592030001d4fd",
+				"avatar_url": "http://cdn2.hubspot.net/hub/439787/file-2532111804-jpg/img/headshots/ArtLandro.jpg?t=1424529046577&amp;t=1425695939615",
+				"name": "Art Landro",
+				"bio": "Art Landro brings 25 years of global business experience to Sencha. Prior to Sencha, Art was CEO of Cordys, where he transformed the Netherlands-based software company into a BPM PaaS and Cloud Provisioning provider and successfully led its acquisition by OpenText. His record of driving sales started before that, when he was President of MontaVista Software, breaking into non-traditional Linux markets from automotive infotainment systems to aerospace controls. Art served five years of Active Duty in the U.S. Air Force and 22 years in the Air Force Reserves, retiring as a Lieutenant Colonel.",
+				"twitter_handle": "",
+				"sessions": [],
+				"__v": 0,
+				"company": "Sencha",
+				"title": "CEO"
+			},
+			{
+				"_id": "54fdd2040fc1100300fcf1d9",
+				"avatar_url": "http://cdn2.hubspot.net/hub/439787/file-2537541365-jpg/img/headshots/MichaelFacemire.jpg?t=1424529046577&amp;t=1425695939615",
+				"name": "Michael Facemire",
+				"bio": "Michael serves Application Development & Delivery Professionals. He is a leading expert on mobile software development, software development process, and next-generation open web architectures. Michael has more than 13 years of experience in the software development industry. He joined Forrester from IBM, where he delivered industry-leading applications in mobile, social software, content management, portal, and workflow. While there, he authored or co-authored 23 patents in the areas of mobile software, collaborative systems, content management, and media services that have been issued or pending. Michael holds a bachelor's degree in computer engineering from Case Western Reserve University.",
+				"twitter_handle": "",
+				"sessions": [],
+				"__v": 0,
+				"company": "Forrester",
+				"title": "Senior Analyst"
+			},
+			{
+				"_id": "54fdd2050fc1100300fcf1de",
+				"avatar_url": "http://cdn2.hubspot.net/hub/439787/file-2537526315-jpg/img/headshots/JasonCline.jpg?t=1424529046577&amp;t=1425695939615",
+				"name": "Jason Cline",
+				"bio": "Jason Cline leads development of Sencha Space. Jason has spent most of his career on the bleeding edge of both mobile and web technologies. He led Sencha’s efforts to integrate Sencha Touch with our partners’ mobile APIs and was the SDK lead for Sencha’s Cloud efforts. Prior to Sencha, Jason spent 4 years working on the Dojo Toolkit helping to bring real time communication to pre-HTML5 browsers using XMPP and Comet. Before taking a leap to work on first generation JavaScript frameworks, he spent six years as a lead engineer at Vodafone building a scalable back-end for the early days of the mobile web.",
+				"twitter_handle": "",
+				"sessions": [],
+				"__v": 0,
+				"company": "Sencha",
+				"title": "Director of Engineering"
+			},
+			{
+				"_id": "54fdd20512b592030001d4f7",
+				"avatar_url": "http://cdn2.hubspot.net/hub/439787/file-2520276487-jpg/img/headshots/NickHarlow.jpg?t=1424529046577&amp;t=1425695939615",
+				"name": "Nick Harlow",
+				"bio": "Nick is a seasoned technology professional. He has served in both engineering and product management roles at a range of small and large software companies. Over the course of his career, he has specialized in enterprise search, identity and access management, security of networks, endpoints, and the cloud, and secure mobile application development. He was awarded a patent for innovations in digital signature technology for the web. In his role with Sencha, he leads product management and marketing efforts for Sencha Space, a leading web application management, deployment, and security platform. He holds a Bachelor of Science in Computer Science from Stanford University and an MBA from INSEAD.",
+				"twitter_handle": "",
+				"sessions": [],
+				"__v": 0,
+				"company": "Sencha",
+				"title": "Director, Product Management"
+			},
+			{
+				"_id": "54fdd20612b592030001d4fc",
+				"avatar_url": "http://cdn2.hubspot.net/hub/439787/file-2527770365-jpg/img/headshots/ArtKay.jpg?t=1424529046577&amp;t=1425695939615",
+				"name": "Arthur Kay",
+				"bio": "Arthur Kay has been working with the Web since the late 1990s, when GeoCities and scrolling marquees were all the rage. Since those early days, Arthur graduated from Loyola University Chicago (where he studied Music and Computer Science) and has worked in a variety of professional roles throughout the Internet industry. Arthur currently lives in the Chicago suburbs and works as Developer Relations Manager for Sencha, Inc.",
+				"twitter_handle": "",
+				"sessions": [],
+				"__v": 0,
+				"company": "Sencha",
+				"title": "Developer Relations Manager"
+			}
+		],
+		"__v": 2,
+		"order_index": 0,
+		"survey_link": "https://www.surveymonkey.com/s/BR3DJZB"
+	},
+	{
+		"_id": "5500f1230deea20300d0d44e",
+		"title": "Lunch",
+		"description": "",
+		"date": "2015-04-08",
+		"start_time": "11:30 AM",
+		"end_time": "12:30 PM",
+		"hashtag": "",
+		"track": {
+			"_id": "5500ef960deea20300d0d448",
+			"name": "Meals",
+			"order_index": 0,
+			"__v": 0
+		},
+		"location": {
+			"_id": "54fdd22d0fc1100300fcf1e2",
+			"name": "Community Pavilion - Exhibit Hall A",
+			"__v": 0
+		},
+		"speakers": [],
+		"__v": 0
+	},
+	{
+		"_id": "55011ed10deea20300d0d450",
+		"title": "Deploying and managing applications with Sencha Space ",
+		"description": "In this session, the presenter will focus on the basic deployment features of Sencha Space: Managing users, apps, and devices. The presentation will begin with a discussion of real-world customer pain points before going into a series of demos on Space functionality. Advanced Topics may include: Composing complex apps in Space with the Invoke API.",
+		"date": "2015-04-08",
+		"start_time": "12:30 PM",
+		"end_time": "1:20 PM",
+		"hashtag": "",
+		"track": {
+			"_id": "54f136a2d1bcf203004dafa7",
+			"name": "Deploy",
+			"order_index": 3,
+			"__v": 0
+		},
+		"location": {
+			"_id": "54fd35b7c57bbb03002c6f56",
+			"name": "Mission City Ballroom M2/M3",
+			"__v": 0
+		},
+		"speakers": [
+			{
+				"_id": "54fdd20512b592030001d4f7",
+				"avatar_url": "http://cdn2.hubspot.net/hub/439787/file-2520276487-jpg/img/headshots/NickHarlow.jpg?t=1424529046577&amp;t=1425695939615",
+				"name": "Nick Harlow",
+				"bio": "Nick is a seasoned technology professional. He has served in both engineering and product management roles at a range of small and large software companies. Over the course of his career, he has specialized in enterprise search, identity and access management, security of networks, endpoints, and the cloud, and secure mobile application development. He was awarded a patent for innovations in digital signature technology for the web. In his role with Sencha, he leads product management and marketing efforts for Sencha Space, a leading web application management, deployment, and security platform. He holds a Bachelor of Science in Computer Science from Stanford University and an MBA from INSEAD.",
+				"twitter_handle": "",
+				"sessions": [],
+				"__v": 0,
+				"company": "Sencha",
+				"title": "Director, Product Management"
+			}
+		],
+		"__v": 1,
+		"order_index": 0,
+		"survey_link": "https://www.surveymonkey.com/s/V6BSTY8"
+	},
+	{
+		"_id": "550128d50deea20300d0d45b",
+		"title": "Siesta deep dive: How to improve the quality of your Ext JS app releases with unit & UI tests ",
+		"description": "Testing a large Ext JS codebase can be tricky sometimes. Running your tests across multiple platforms and browsers can also be a bit of a pain. The good news is there are many great tools out there that will make your life as a developer easier. In this presentation, I will demonstrate how we at Bryntum use Siesta to test our products and applications.",
+		"date": "2015-04-09",
+		"start_time": "9:30 AM",
+		"end_time": "10:20 AM",
+		"hashtag": "",
+		"track": {
+			"_id": "54f1369dd1bcf203004dafa6",
+			"name": "Develop",
+			"order_index": 2,
+			"__v": 0
+		},
+		"location": {
+			"_id": "54fd35b7a4198c0300081767",
+			"name": "Mission City Ballroom M1",
+			"__v": 0
+		},
+		"speakers": [
+			{
+				"_id": "551a57ef3ff9010300d563a0",
+				"avatar_url": "http://cdn2.hubspot.net/hub/439787/file-2672674340-jpg/img/headshots/BryntumMats.jpg?t=1427483970646",
+				"name": "Mats Bryntse",
+				"title": "Founder",
+				"company": "Bryntum",
+				"bio": "Mats Bryntse is the founder of Bryntum and co-creator of Siesta. He has been part of the Sencha community since 2007 and has created several Ext JS user extensions. In his spare time, Mats enjoys skiing and cursing over IE issues.",
+				"twitter_handle": "",
+				"sessions": [],
+				"__v": 0
+			}
+		],
+		"__v": 1,
+		"order_index": 0,
+		"survey_link": "https://www.surveymonkey.com/s/VP5BWHY"
+	},
+	{
+		"_id": "5501202b7c4c0d030033104d",
+		"title": "Frustration free packaging for Ext JS apps and deploying Ext JS apps on mobile ",
+		"description": "So your awesome Ext JS 5 application is now mobile ready, with shiny new features and touch support. But how do you deploy it? Through a web browser, wrapped in Cordova/PhoneGap, or Sencha Space? This hands-on presentation will demonstrate deployment options with pros and cons of each. Ext JS 5 introduced ground breaking support for mobile devices. In addition to updates in the class system, components, and event management, the framework makes deployment simpler than ever. However, the process to getting it right starts even before the very first line.\n\nIn this presentation we will build a simple mobile-friendly application from scratch. We will then discuss three ways of deploying it: - HTTP(S) to a web browser - Cordova/PhoneGap - Sencha Space Each of these options comes with benefits and drawbacks, which we will outline during the demonstration. Attendees will leave the room with all the tools required to make the right decision on how to deploy their Ext JS 5 application to mobile devices.",
+		"date": "2015-04-08",
+		"start_time": "1:30 PM",
+		"end_time": "2:20 PM",
+		"hashtag": "",
+		"track": {
+			"_id": "54f136a2d1bcf203004dafa7",
+			"name": "Deploy",
+			"order_index": 3,
+			"__v": 0
+		},
+		"location": {
+			"_id": "54fd35b7c57bbb03002c6f56",
+			"name": "Mission City Ballroom M2/M3",
+			"__v": 0
+		},
+		"speakers": [
+			{
+				"_id": "54fdd2030fc1100300fcf1d4",
+				"avatar_url": "http://cdn2.hubspot.net/hub/439787/file-2522689664-jpg/img/headshots/GrgurGrisogono.jpg?t=1424529046577&amp;t=1425695939615",
+				"name": "Grgur Grisogono",
+				"bio": "Grgur Grisogono is a Principal at Modus Create and the co-author of Ext JS in Action SE. As a software architect and trainer, Grgur shares his experience in JavaScript, CSS, HTML5, Sencha Touch, Ext JS, web apps and hybrid mobile with numerous Fortune 500 companies. Grgur is a long time member of the Sencha community, three-times European conference organizer, blogger and frequent meetup speaker.",
+				"twitter_handle": "",
+				"sessions": [],
+				"__v": 0,
+				"company": "Modus Create",
+				"title": "Principal & Software Architect"
+			}
+		],
+		"__v": 1,
+		"order_index": 0,
+		"survey_link": "https://www.surveymonkey.com/s/V6NS3TD"
+	},
+	{
+		"_id": "550121150deea20300d0d451",
+		"title": "Advanced theming techniques for Sencha Ext JS using Sencha Cmd ",
+		"description": "In this session Lee Boonstra, course creator of the Sencha advanced theming course, will show you how to create professional themes for your applications. A talk about Sass, variables and skins! You will learn how to make your components look different and unique. How to better organize your themes and how to make your applications look good!",
+		"date": "2015-04-08",
+		"start_time": "2:30 PM",
+		"end_time": "3:20 PM",
+		"hashtag": "",
+		"track": {
+			"_id": "54f13696d1bcf203004dafa5",
+			"name": "Design",
+			"order_index": 1,
+			"__v": 0
+		},
+		"location": {
+			"_id": "54fd3529a4198c0300081766",
+			"name": "Mission City Ballroom B4",
+			"__v": 0
+		},
+		"speakers": [
+			{
+				"_id": "54fdd2050fc1100300fcf1dd",
+				"avatar_url": "http://cdn2.hubspot.net/hub/439787/file-2520276467-jpg/img/headshots/LeeBoonstra.jpg?t=1424529046577&amp;t=1425695939615",
+				"name": "Lee Boonstra",
+				"bio": "Lee Boonstra is a sales engineer and technical trainer at Sencha in Europe. Lee lives in Amsterdam and has experience in both client-side and server-side development. She spends her spare time developing web and mobile apps. Also, she wrote a book for O'Reilly: Hands-on Sencha Touch 2.",
+				"twitter_handle": "",
+				"sessions": [],
+				"__v": 0,
+				"company": "Sencha",
+				"title": "Sales Engineer & Technical Writer"
+			}
+		],
+		"__v": 1,
+		"order_index": 0,
+		"survey_link": "https://www.surveymonkey.com/s/V6X8SSF"
+	},
+	{
+		"_id": "550121987c4c0d030033104e",
+		"title": "Simplifying the experience for users and developers with Ext JS ",
+		"description": "Nielsen’s Answers On-Demand® (AOD) is an ad hoc reporting platform that provides flexible on-the-fly processing to generate insights from consumer data. The legacy AOD system was a single web application making it hard to manage functional changes. Our new solution now consists of a suite of applications including; a reporting framework, data selector, design tool and rendering engine. With this architecture, the applications can function as a suite or individual applications used to improve other legacy tools or functional components of other new solutions. The flexibility of Ext JS framework made it easy to integrate our custom built components while providing easily extendable set of core components. Some of our custom features include; application recovery (accomplished by saving sessions), the multi tab reporting capability built on tab panel, lightweight canvas layout with multiple visualization options as well as a custom page container. Following the beta release of our new platform, Nielsen’s development team partnered with Sencha engineers to look at the innovative ways we had leveraged the framework and how Sencha’s product roadmap and new feature development could continue to grow with us. Since then, we have integrated Sencha Cmd with Gradle to package, build and deploy applications. Features such as image spriting, JavaScript compiler, package management and command line syntax have proven effective during application development. Coupled with Nielsen user experience standards, Sencha Cmd has allowed Nielsen to easily build custom Ext JS themes. These themes are now widely leveraged by other Ext JS-based applications within the company. Added benefit of using the Ext JS 4.x framework was allowing AOD to become mobile friendly. Clients may use most of the application’s features on their tablets. Moving forward, we are pursuing an Ext JS 5.x migration and investigating the potential for a comprehensive mobile strategy.",
+		"date": "2015-04-08",
+		"start_time": "2:30 PM",
+		"end_time": "3:20 PM",
+		"hashtag": "",
+		"track": {
+			"_id": "54f1369dd1bcf203004dafa6",
+			"name": "Develop",
+			"order_index": 2,
+			"__v": 0
+		},
+		"location": {
+			"_id": "54fd35b7a4198c0300081767",
+			"name": "Mission City Ballroom M1",
+			"__v": 0
+		},
+		"speakers": [
+			{
+				"_id": "54fdd2010fc1100300fcf1cd",
+				"avatar_url": "http://cdn2.hubspot.net/hub/439787/file-2522689699-jpg/img/headshots/SriHariGumpuMadan.jpg?t=1424529046577&amp;t=1425695939615",
+				"name": "Sri Hari Gumpu Madan",
+				"bio": "Currently working as a Leader Developer at Nielsen for four years, Sri Hari is part of the team responsible for the design, development and delivery of Answers On-Demand tool, a reporting platform for consumer data. Sri Hari’s skills include Java, JavaScript, Web services, Web applications, architecture. He holds a Master's degree in Engineering and enjoys rock music and traveling.",
+				"twitter_handle": "",
+				"sessions": [],
+				"__v": 0,
+				"company": "Nielsen",
+				"title": "Lead Developer"
+			}
+		],
+		"__v": 1,
+		"order_index": 0,
+		"survey_link": "https://www.surveymonkey.com/s/V6STLS8"
+	},
+	{
+		"_id": "550126707c4c0d0300331053",
+		"title": "Analyze Your Ext JS Grid Data with Pivot Grid",
+		"description": "",
+		"date": "2015-04-08",
+		"start_time": "4:40 PM",
+		"end_time": "5:30 PM",
+		"hashtag": "",
+		"track": {
+			"_id": "54f1369dd1bcf203004dafa6",
+			"name": "Develop",
+			"order_index": 2,
+			"__v": 0
+		},
+		"location": {
+			"_id": "54fd35b7a4198c0300081768",
+			"name": "Mission City Ballroom B5",
+			"__v": 0
+		},
+		"speakers": [
+			{
+				"_id": "551a572201026403007ead86",
+				"avatar_url": "http://cdn2.hubspot.net/hub/439787/file-2662916154-jpg/img/headshots/AdrianTeodorescu.jpg?t=1427483970646",
+				"name": "Adrian Teodorescu  ",
+				"title": "Senior Software Engineer",
+				"company": "Sencha",
+				"bio": "Adrian has more than 15 years experience in the IT industry as both sa oftware developer and consultant. Since 2009, he has been active in the Sencha community and developed various applications and components using Ext JS and Sencha Touch. Following the acquisition of his mzPivotGrid component by Sencha, Adrian decided to join the Sencha team.",
+				"twitter_handle": "",
+				"sessions": [],
+				"__v": 0
+			}
+		],
+		"__v": 1,
+		"order_index": 0,
+		"survey_link": "https://www.surveymonkey.com/s/BN6BL5Z"
+	},
+	{
+		"_id": "55011f877c4c0d030033104b",
+		"title": "Sencha GXT on Tablets",
+		"description": "The upcoming version of GXT will add support for tablets, including touch events, gestures, and momentum scrolling. Learn how to utilize the new Sencha GXT features to improve your customers’ experience on Tablets and/or large screen touch devices. In this presentation, we’ll review each of the widgets which have added gestures and touch events. We'll also look at touch features in Charts such as pinch / zoom and pan and how they interact with the related browser and OS features. We will demonstrate how to use the new features in your applications to improve the user experience on tablets. We will also showcase our newest app built with GXT and optimized for desktop and tablets.",
+		"date": "2015-04-08",
+		"start_time": "1:30 PM",
+		"end_time": "2:20 PM",
+		"hashtag": "",
+		"track": {
+			"_id": "54f1369dd1bcf203004dafa6",
+			"name": "Develop",
+			"order_index": 2,
+			"__v": 0
+		},
+		"location": {
+			"_id": "54fd35b7a4198c0300081768",
+			"name": "Mission City Ballroom B5",
+			"__v": 0
+		},
+		"speakers": [
+			{
+				"_id": "54fdd2060fc1100300fcf1df",
+				"avatar_url": "http://cdn2.hubspot.net/hub/439787/file-2511562176-jpg/img/headshots/DavidChandler.jpg?t=1424529046577&amp;t=1425695939615",
+				"name": "David Chandler",
+				"bio": "David fell in love with programming at age 14 on his TI-99/4A, studied electrical engineering at the University of Kansas, and soon after wrote the first published book on Web servers (Running a Perfect Web Site, 1995). He has worked on software for everything from airborne GPS receivers to Internet banking and has written Web applications in everything from C to ColdFusion to JSF and most recently GWT. As a Developer Advocate with Google for 3.5 years, Chandler supported the worldwide GWT and Android communities through blogging, open source projects, and conference speaking. He actively contributes to open source projects (github: turbomanage) and blogs about Java Web and mobile development at turbomanage.wordpress.com. Chandler lives in Colorado with his family and enjoys photography, hiking in Rocky Mountain National Park, skiing, piano, and teaching math and Java to high school students every now and then.",
+				"twitter_handle": "",
+				"sessions": [],
+				"__v": 0,
+				"company": "Sencha",
+				"title": "Senior Developer Advocate"
+			}
+		],
+		"__v": 1,
+		"order_index": 0,
+		"survey_link": "https://www.surveymonkey.com/s/V6F65MG"
+	},
+	{
+		"_id": "550125597c4c0d0300331051",
+		"title": "ViewModels for spreadsheet formulas, interactive D3 visualisations and other cool stuff",
+		"description": "Did you know that you can emulate Excel formulas in ExtJS grids? Or that you can create interactive D3 visualisations from large amounts of ExtJS store data in realtime? All this and more is possible by using the power of ExtJS 5 ViewModels. The new kid on the block, ExtJS 5, has offered a host of new possibilities. The new MVVM architecture is extremely powerful but can be intimidating at first, especially when coming from MVC. Once you have flipped the switch however you will wonder how you ever managed to live without it. We will show you some examples of what can be accomplished when you really start thinking out of the box, and you can do it too. ViewModels are even more powerful than most people realise, especially when combined with things like HTML5 Canvas, WebGL, Bower components and more.",
+		"date": "2015-04-08",
+		"start_time": "3:40 PM",
+		"end_time": "4:30 PM",
+		"hashtag": "",
+		"track": {
+			"_id": "54f1369dd1bcf203004dafa6",
+			"name": "Develop",
+			"order_index": 2,
+			"__v": 0
+		},
+		"location": {
+			"_id": "54fd35b7a4198c0300081767",
+			"name": "Mission City Ballroom M1",
+			"__v": 0
+		},
+		"speakers": [
+			{
+				"_id": "54fdd20212b592030001d4ed",
+				"avatar_url": "http://cdn2.hubspot.net/hub/439787/file-2522689689-jpg/img/headshots/RobBoerman.jpg?t=1424529046577&amp;t=1425695939615",
+				"name": "Rob Boerman",
+				"bio": "Rob is the CTO of 2Gears. Rob has been working with Ext JS since before it was called that. 2Gears creates complex desktop and mobile applications for large international customers, using Ext JS, Sencha Touch, NodeJS and a large collection of other HTML5 technologies. At 2Gears we love mashing up frameworks and libraries to create cool stuff in records time with a high quality level.",
+				"twitter_handle": "",
+				"sessions": [],
+				"__v": 0,
+				"company": "2Gears",
+				"title": "CTO & Co-founder"
+			}
+		],
+		"__v": 1,
+		"order_index": 0,
+		"survey_link": "https://www.surveymonkey.com/s/V6WY2X6"
+	},
+	{
+		"_id": "55012a030deea20300d0d45c",
+		"title": "Ins and outs of the Ext JS data package ",
+		"description": "The data package in Sencha Ext JS puts the \"M\" in MVC and MVVM. Learn how to organize your models and take full advantage of the data package to manage fields, records, associations, stores, sessions, and more.",
+		"date": "2015-04-09",
+		"start_time": "10:30 AM",
+		"end_time": "11:20 AM",
+		"hashtag": "",
+		"track": {
+			"_id": "54f1369dd1bcf203004dafa6",
+			"name": "Develop",
+			"order_index": 2,
+			"__v": 0
+		},
+		"location": {
+			"_id": "54fd3529a4198c0300081766",
+			"name": "Mission City Ballroom B4",
+			"__v": 0
+		},
+		"speakers": [
+			{
+				"_id": "54fdd20612b592030001d4fb",
+				"avatar_url": "http://cdn2.hubspot.net/hub/439787/file-2511562181-jpg/img/headshots/DonGriffin.jpg?t=1424529046577&amp;t=1425695939615",
+				"name": "Don Griffin",
+				"bio": "Don Griffin is the engineering manager for Ext JS and Sencha Touch. He was an Ext JS user for 2 years before joining Sencha and has over 20 years of software engineering experience on a broad range of platforms. His experience includes designing web application front-ends and back-ends, native GUI applications, network protocols and device drivers. Don’s passion is to build world class products that people love to use.",
+				"twitter_handle": "",
+				"sessions": [],
+				"__v": 0,
+				"company": "Sencha",
+				"title": "Engineering Manager"
+			}
+		],
+		"__v": 1,
+		"order_index": 0,
+		"survey_link": "https://www.surveymonkey.com/s/VPBJQ86"
+	},
+	{
+		"_id": "550125eb7c4c0d0300331052",
+		"title": "Coffee Break",
+		"description": "",
+		"date": "2015-04-08",
+		"start_time": "3:20 PM",
+		"end_time": "3:40 PM",
+		"hashtag": "",
+		"track": {
+			"_id": "5500ef960deea20300d0d448",
+			"name": "Meals",
+			"order_index": 0,
+			"__v": 0
+		},
+		"location": {
+			"_id": "54fdd22d0fc1100300fcf1e2",
+			"name": "Community Pavilion - Exhibit Hall A",
+			"__v": 0
+		},
+		"speakers": [],
+		"__v": 0
+	},
+	{
+		"_id": "550126b50deea20300d0d455",
+		"title": "Breakthroughs in JavaScript code analysis ",
+		"description": "Gone are the days of noisy “linters” and glorified spell checkers. Today’s static source code analysis is accurate and trustworthy, and can find complex inter-procedural coding defects a human would never see. Come learn about a leap forward in JavaScript code analysis. We’ll get our hands dirty with real live source code and bugs in popular open source packages.",
+		"date": "2015-04-08",
+		"start_time": "4:40 PM",
+		"end_time": "5:30 PM",
+		"hashtag": "",
+		"track": {
+			"_id": "54f1369dd1bcf203004dafa6",
+			"name": "Develop",
+			"order_index": 2,
+			"__v": 0
+		},
+		"location": {
+			"_id": "54fd35b7a4198c0300081767",
+			"name": "Mission City Ballroom M1",
+			"__v": 0
+		},
+		"speakers": [
+			{
+				"_id": "550a8158a9a9ae03002e1306",
+				"avatar_url": "http://cdn2.hubspot.net/hub/439787/file-2607373411-jpg/img/headshots/PeterDillinger.jpg",
+				"name": "Peter Dillinger",
+				"title": "Technical Manager in Static Analysis",
+				"company": "Coverity",
+				"bio": "Peter Dillinger is a Technical Manager in Static Analysis at Coverity by Synopsys, with more than five years of experience as a developer and technical lead in analysis of Java, C#, C++, and most recently, JavaScript code.  Peter was a top driving force and contributor to a four-year effort to consolidate three disparate static analysis engines into one engine, with a unified workflow and results of the highest quality.  He also designed and implemented some key technologies in Coverity’s web application security analysis. While earning his Ph.D. in Computer Science from Northeastern University and Master’s from Georgia Tech, Peter made published contributions to two ACM award-winning verification tools: ACL2 and the SPIN Model Checker. ",
+				"twitter_handle": "",
+				"sessions": [],
+				"__v": 0
+			}
+		],
+		"__v": 1,
+		"order_index": 0,
+		"survey_link": "https://www.surveymonkey.com/s/V676MVH"
+	},
+	{
+		"_id": "550126f07c4c0d0300331054",
+		"title": "Seamless Mobile and Desktop debugging ",
+		"description": "This session will focus on Sencha's integrated approach to debugging HTML5 applications across both desktop and mobile platforms.",
+		"date": "2015-04-08",
+		"start_time": "4:40 PM",
+		"end_time": "5:30 PM",
+		"hashtag": "",
+		"track": {
+			"_id": "54f136a2d1bcf203004dafa7",
+			"name": "Deploy",
+			"order_index": 3,
+			"__v": 0
+		},
+		"location": {
+			"_id": "54fd35b7c57bbb03002c6f56",
+			"name": "Mission City Ballroom M2/M3",
+			"__v": 0
+		},
+		"speakers": [
+			{
+				"_id": "54fdd2050fc1100300fcf1de",
+				"avatar_url": "http://cdn2.hubspot.net/hub/439787/file-2537526315-jpg/img/headshots/JasonCline.jpg?t=1424529046577&amp;t=1425695939615",
+				"name": "Jason Cline",
+				"bio": "Jason Cline leads development of Sencha Space. Jason has spent most of his career on the bleeding edge of both mobile and web technologies. He led Sencha’s efforts to integrate Sencha Touch with our partners’ mobile APIs and was the SDK lead for Sencha’s Cloud efforts. Prior to Sencha, Jason spent 4 years working on the Dojo Toolkit helping to bring real time communication to pre-HTML5 browsers using XMPP and Comet. Before taking a leap to work on first generation JavaScript frameworks, he spent six years as a lead engineer at Vodafone building a scalable back-end for the early days of the mobile web.",
+				"twitter_handle": "",
+				"sessions": [],
+				"__v": 0,
+				"company": "Sencha",
+				"title": "Director of Engineering"
+			}
+		],
+		"__v": 1,
+		"order_index": 0,
+		"survey_link": "https://www.surveymonkey.com/s/V6Y79CC"
+	},
+	{
+		"_id": "5501273f7c4c0d0300331055",
+		"title": "Party at Levi's Stadium",
+		"description": "",
+		"date": "2015-04-08",
+		"start_time": "6:30 PM",
+		"end_time": "10:00 PM",
+		"hashtag": "",
+		"track": {
+			"_id": "5500efe07c4c0d0300331048",
+			"name": "Networking",
+			"order_index": 0,
+			"__v": 0
+		},
+		"location": {
+			"_id": "550127470deea20300d0d456",
+			"name": "Levi's Stadium",
+			"__v": 0
+		},
+		"speakers": [],
+		"__v": 0
+	},
+	{
+		"_id": "5501277a0deea20300d0d457",
+		"title": "Event Registration",
+		"description": "",
+		"date": "2015-04-09",
+		"start_time": "7:30 AM",
+		"end_time": "5:00 PM",
+		"hashtag": "",
+		"track": {
+			"_id": "5500f0350deea20300d0d44b",
+			"name": "Registration",
+			"order_index": 0,
+			"__v": 0
+		},
+		"location": {
+			"_id": "5500d4517c4c0d0300331040",
+			"name": "Santa Clara Convention Center Main Lobby",
+			"__v": 0
+		},
+		"speakers": [],
+		"__v": 0
+	},
+	{
+		"_id": "550127b50deea20300d0d458",
+		"title": "Community Pavilion Open",
+		"description": "",
+		"date": "2015-04-09",
+		"start_time": "7:30 AM",
+		"end_time": "2:00 PM",
+		"hashtag": "",
+		"track": {
+			"_id": "5500efe07c4c0d0300331048",
+			"name": "Networking",
+			"order_index": 0,
+			"__v": 0
+		},
+		"location": {
+			"_id": "54fdd22d0fc1100300fcf1e2",
+			"name": "Community Pavilion - Exhibit Hall A",
+			"__v": 0
+		},
+		"speakers": [],
+		"__v": 0
+	},
+	{
+		"_id": "550127f30deea20300d0d459",
+		"title": "Breakfast",
+		"description": "",
+		"date": "2015-04-09",
+		"start_time": "7:30 AM",
+		"end_time": "9:30 AM",
+		"hashtag": "",
+		"track": {
+			"_id": "5500ef960deea20300d0d448",
+			"name": "Meals",
+			"order_index": 0,
+			"__v": 0
+		},
+		"location": {
+			"_id": "54fdd22d0fc1100300fcf1e2",
+			"name": "Community Pavilion - Exhibit Hall A",
+			"__v": 0
+		},
+		"speakers": [],
+		"__v": 0
+	},
+	{
+		"_id": "550128800deea20300d0d45a",
+		"title": "The Big Grid for your Big Data ",
+		"description": "Almost all enterprise applications are built around a grid, and Sencha Ext JS has the best grid for web. Learn how to make large amounts of enterprise data available in web applications for your users, with out-of-the-box interactive features that you would only expect in a spreadsheet. This session will cover best methods for making large Ext JS data grids including the data package behind it, the session management capabilities, and the hundreds of grid features that the you can turn on and off with simple configurations.",
+		"date": "2015-04-09",
+		"start_time": "9:30 AM",
+		"end_time": "10:20 AM",
+		"hashtag": "",
+		"track": {
+			"_id": "54f1369dd1bcf203004dafa6",
+			"name": "Develop",
+			"order_index": 2,
+			"__v": 0
+		},
+		"location": {
+			"_id": "54fd3529a4198c0300081766",
+			"name": "Mission City Ballroom B4",
+			"__v": 0
+		},
+		"speakers": [
+			{
+				"_id": "54fdd20512b592030001d4f6",
+				"avatar_url": "http://cdn2.hubspot.net/hub/439787/file-2537541360-jpg/img/headshots/NigeWhite.jpg?t=1424529046577&amp;t=1425695939615",
+				"name": "Nige White",
+				"bio": "Nigel White has 20 years of experience in the IT industry. He has seen computer systems evolve from batch processing, back room behemoths that dictated user behavior into distributed, user-centered enablers of everyday tasks. Nigel has been working with rich Internet applications, and dynamic browser updating techniques since before the term \"Ajax\" was coined. Nigel currently works as a Senior Software Architect on the Ext JS development team.",
+				"twitter_handle": "",
+				"sessions": [],
+				"__v": 0,
+				"company": "Sencha",
+				"title": "Senior Software Architect"
+			}
+		],
+		"__v": 1,
+		"order_index": 0,
+		"survey_link": "https://www.surveymonkey.com/s/V683VT5"
+	},
+	{
+		"_id": "5501290c7c4c0d0300331057",
+		"title": "Migrating from a Struts MVC based architecture to an EXTJS restful client design ",
+		"description": "This session describes experiences migrating a page based Struts application to a more interactive and dynamic Rich Interface Architecture. The motivation for this migration was enhanced User Interface Experience, and cross browser compatibility. ExtJS was selected as the premiere javascript based User Interface Technology, and this paper describes first hand experiences completing this migration. Topics include selected technologies, design approaches, 'gotchas', migration strategies and recommended best practices.",
+		"date": "2015-04-09",
+		"start_time": "9:30 AM",
+		"end_time": "10:20 AM",
+		"hashtag": "",
+		"track": {
+			"_id": "54f1369dd1bcf203004dafa6",
+			"name": "Develop",
+			"order_index": 2,
+			"__v": 0
+		},
+		"location": {
+			"_id": "54fd35b7c57bbb03002c6f56",
+			"name": "Mission City Ballroom M2/M3",
+			"__v": 0
+		},
+		"speakers": [
+			{
+				"_id": "54fdd20412b592030001d4f3",
+				"avatar_url": "http://cdn2.hubspot.net/hub/439787/file-2522689659-jpg/img/headshots/DougBieber.jpg?t=1424529046577&amp;t=1425695939615",
+				"name": "Douglas Bieber",
+				"bio": "Doug Bieber has worked for companies ranging from software, health industry, computers and motorsports. He holds degrees from the University of Southern California and Cal Poly Pomona. Doug is Java Certified and lives in Southern California.",
+				"twitter_handle": "",
+				"sessions": [],
+				"__v": 0,
+				"company": "Yamaha Motor USA",
+				"title": ""
+			}
+		],
+		"__v": 1,
+		"order_index": 0,
+		"survey_link": "https://www.surveymonkey.com/s/V6VSCL2"
+	},
+	{
+		"_id": "550134d77c4c0d030033105b",
+		"title": "Coffee Break",
+		"description": "",
+		"date": "2015-04-09",
+		"start_time": "3:20 PM",
+		"end_time": "3:40 PM",
+		"hashtag": "",
+		"track": {
+			"_id": "5500ef960deea20300d0d448",
+			"name": "Meals",
+			"order_index": 0,
+			"__v": 0
+		},
+		"location": {
+			"_id": "5510b8a143dc86030034b9b6",
+			"name": "Mission City Ballroom Foyer",
+			"__v": 0
+		},
+		"speakers": [],
+		"__v": 0,
+		"order_index": 0,
+		"survey_link": ""
+	},
+	{
+		"_id": "55012a440deea20300d0d45d",
+		"title": "Application Development at Warp Speed: Exploring Sencha Space",
+		"description": "Sencha Space provides a rich and secure runtime environment for your web based applications to run.  We will take a detailed look at the various capabilities of the Sencha Space client, including its APIs, and how they help developers produce a powerful application with minimal effort.  We’ll also look at a fully working application that leverages many Space APIs to illustrate the benefits it brings. ",
+		"date": "2015-04-09",
+		"start_time": "10:30 AM",
+		"end_time": "11:20 AM",
+		"hashtag": "",
+		"track": {
+			"_id": "54f1369dd1bcf203004dafa6",
+			"name": "Develop",
+			"order_index": 2,
+			"__v": 0
+		},
+		"location": {
+			"_id": "54fd35b7a4198c0300081768",
+			"name": "Mission City Ballroom B5",
+			"__v": 0
+		},
+		"speakers": [
+			{
+				"_id": "551a57a43ff9010300d5639f",
+				"avatar_url": "http://cdn2.hubspot.net/hub/439787/file-2663067684-jpg/img/headshots/RevinGuillen.jpg?t=1427483970646",
+				"name": "Revin Guillen",
+				"title": "Senior Software Engineer",
+				"company": "Sencha",
+				"bio": "Revin Guillen leads development of the Sencha Space SDK, and has done so for a little over a year. Before coming to Sencha, Revin spent eight years specializing in JavaScript application architecture and framework development, building everything from individual widgets up to large enterprise web applications. He lives in the Seattle area, surviving on espresso and whatever's in the refrigerator.",
+				"twitter_handle": "",
+				"sessions": [],
+				"__v": 0
+			},
+			{
+				"_id": "551a576101026403007ead87",
+				"avatar_url": "http://cdn2.hubspot.net/hub/439787/file-2662911089-jpg/img/headshots/DanielGallo.jpg?t=1427483970646",
+				"name": "Daniel Gallo",
+				"title": "Sales Engineer",
+				"company": "Sencha",
+				"bio": "Dan joined Sencha in early 2012 and currently works as a Sales Engineer based out of Sencha’s headquarters in Redwood City, California. He has over 9 years experience developing innovative web-based applications using a variety of technologies, and specializes in ASP.NET C# and JavaScript.",
+				"twitter_handle": "",
+				"sessions": [],
+				"__v": 0
+			},
+			{
+				"_id": "551e36ea9f8dd30300848592",
+				"avatar_url": "http://cdn2.hubspot.net/hubfs/439787/img/headshots/MarcGusmano.jpg?t=1428481721250",
+				"name": "Marc Gusmano",
+				"title": "Sales Engineer",
+				"company": "Sencha",
+				"bio": "Marc is a Sales Engineer with Sencha and has over 30 years of experience in the software services industry. He has been extensively involved with custom HTML5 browser and mobile development projects, using his experience to build HTML5 Single Page Applications. Marc has worked for several large software services companies, including Andersen Consulting and Hitachi Consulting, and he was co-owner of a software services and training company for over 10 years. Marc has a passion for building outstanding software, especially leading edge, user-centric applications.",
+				"twitter_handle": "",
+				"sessions": [],
+				"__v": 0
+			}
+		],
+		"__v": 3,
+		"order_index": 0,
+		"survey_link": "https://www.surveymonkey.com/s/VP632P7"
+	},
+	{
+		"_id": "55012b9b7c4c0d0300331059",
+		"title": "Interactive visual analytics using Sencha Charts ",
+		"description": "Charts and graphs are core to any enterprise grade analytics application. With Ext JS 5, Sencha Charts (formerly a part of Sencha Touch) provide advanced charting capabilities with interactive features for both desktop and mobile devices. The session walks through all the Do's and Don'ts of using Sencha Charts, how to add interactions, and how to migrate from old Ext JS Charts package to Sencha Charts. You will also learn about the fundamentals of sprites to customize the rendering of various charts elements.",
+		"date": "2015-04-09",
+		"start_time": "11:30 AM",
+		"end_time": "12:20 PM",
+		"hashtag": "",
+		"track": {
+			"_id": "54f1369dd1bcf203004dafa6",
+			"name": "Develop",
+			"order_index": 2,
+			"__v": 0
+		},
+		"location": {
+			"_id": "54fd3529a4198c0300081766",
+			"name": "Mission City Ballroom B4",
+			"__v": 0
+		},
+		"speakers": [
+			{
+				"_id": "54fdd2040fc1100300fcf1da",
+				"avatar_url": "http://cdn2.hubspot.net/hub/439787/file-2511562221-jpg/img/headshots/VitalyKravchenko.jpg?t=1424529046577&amp;t=1425695939615",
+				"name": "Vitaly Kravchenko",
+				"bio": "Vitaly Kravchenko is the Graphics Engineer at Sencha. He was an independent developer of native desktop audio software, mobile games and web apps for 10 years before joining Sencha. Vitaly's serious dive into HTML5 happened in 2009 when he released WebOS's first stock market app. After that, he kissed native goodbye and never looked back.",
+				"twitter_handle": "",
+				"sessions": [],
+				"__v": 0,
+				"company": "Sencha",
+				"title": "Graphics Engineer"
+			}
+		],
+		"__v": 1,
+		"order_index": 0,
+		"survey_link": "https://www.surveymonkey.com/s/VPMW6XJ"
+	},
+	{
+		"_id": "55012bdb7c4c0d030033105a",
+		"title": "Debug your apps with Google Chrome and Sencha ",
+		"description": "Debugging enterprise JavaScript applications historically been a huge pain in the neck. Thankfully the developer tools in most modern browsers have matured and make inspecting application logic easier than ever. Google Chrome in particular has a rich set of debugging tools, which can be further complimented with Chrome Extensions.\n\nJoin Arthur Kay, Developer Relations Manager at Sencha, as he discusses the Sencha platform, explains how Sencha built App Inspector for Sencha, and dives into techniques for building your own debugging extensions for Google Chrome.",
+		"date": "2015-04-09",
+		"start_time": "11:30 AM",
+		"end_time": "12:20 PM",
+		"hashtag": "",
+		"track": {
+			"_id": "54f1369dd1bcf203004dafa6",
+			"name": "Develop",
+			"order_index": 2,
+			"__v": 0
+		},
+		"location": {
+			"_id": "54fd35b7a4198c0300081768",
+			"name": "Mission City Ballroom B5",
+			"__v": 0
+		},
+		"speakers": [
+			{
+				"_id": "54fdd20612b592030001d4fc",
+				"avatar_url": "http://cdn2.hubspot.net/hub/439787/file-2527770365-jpg/img/headshots/ArtKay.jpg?t=1424529046577&amp;t=1425695939615",
+				"name": "Arthur Kay",
+				"bio": "Arthur Kay has been working with the Web since the late 1990s, when GeoCities and scrolling marquees were all the rage. Since those early days, Arthur graduated from Loyola University Chicago (where he studied Music and Computer Science) and has worked in a variety of professional roles throughout the Internet industry. Arthur currently lives in the Chicago suburbs and works as Developer Relations Manager for Sencha, Inc.",
+				"twitter_handle": "",
+				"sessions": [],
+				"__v": 0,
+				"company": "Sencha",
+				"title": "Developer Relations Manager"
+			}
+		],
+		"__v": 1,
+		"order_index": 0,
+		"survey_link": "https://www.surveymonkey.com/s/VPX67N6"
+	},
+	{
+		"_id": "55012cb10deea20300d0d461",
+		"title": "Lunch",
+		"description": "",
+		"date": "2015-04-09",
+		"start_time": "12:20 PM",
+		"end_time": "1:30 PM",
+		"hashtag": "",
+		"track": {
+			"_id": "5500ef960deea20300d0d448",
+			"name": "Meals",
+			"order_index": 0,
+			"__v": 0
+		},
+		"location": {
+			"_id": "54fdd22d0fc1100300fcf1e2",
+			"name": "Community Pavilion - Exhibit Hall A",
+			"__v": 0
+		},
+		"speakers": [],
+		"__v": 0
+	},
+	{
+		"_id": "55012a787c4c0d0300331058",
+		"title": "Empowering business users to build complex solutions with rich interfaces ",
+		"description": "FICO is a leading analytics software company offering a broad range of tools and applications. The Customer Communications Services (CCS) division in FICO has a mandate to empower its clients and streamline how new solutions are delivered. The project team had the ambitious idea of building a CCS Designer, a new tool with which business analysts could design and deploy new solutions without having to engage technical teams or understand the complex platform infrastructure. The team chose ExtJS to implement a user-friendly web interface on top of a secure, multi-tier Java and No-SQL application. ExtJS was selected because it provided object orientation, re-usable themes and a rich set of visual components – allowing the team to build out a solution rapidly and in line with company UX strategy. The team faced some daunting challenges. One of the first was to make the application compliant with the company’s stringent branding standards. By creating a FICO theme that was dropped into the application while it was under construction, the team addressed the challenge and led the way for future company projects. Another challenge was to encode complex business logic and requirements, such as country-specific customer contact patterns. The solution was to create a data-driven wizard that captures answers and adapts to prompt users for information based on previous responses. Visually the tool must support the presentation and editing of complex processing rules and interactive voice (IVR) flows. Learn about custom components created for status grids, wizards, resettable form-fields and REST-based stores, alongside real-world stories of lessons learned and helpful tips and tricks. How can your team realize the full power of ExtJS to maximize user experiences? Hear from FICO’s hands-on experts to get the latest insights.",
+		"date": "2015-04-09",
+		"start_time": "10:30 AM",
+		"end_time": "11:20 AM",
+		"hashtag": "",
+		"track": {
+			"_id": "54f1369dd1bcf203004dafa6",
+			"name": "Develop",
+			"order_index": 2,
+			"__v": 0
+		},
+		"location": {
+			"_id": "54fd35b7a4198c0300081767",
+			"name": "Mission City Ballroom M1",
+			"__v": 0
+		},
+		"speakers": [
+			{
+				"_id": "54fdd2020fc1100300fcf1cf",
+				"avatar_url": "http://cdn2.hubspot.net/hub/439787/file-2522689679-jpg/img/headshots/PaulDelano.jpg?t=1424529046577&amp;t=1425695939615",
+				"name": "Paul Delano",
+				"bio": "Paul Delano is a hands-on software architect with many years of enterprise software development experience. He has 5 patents in the areas of computer aided design, artificial intelligence and collaborative search and has 2 pending in the areas of cloud computing and social analytics. Prior to FICO he has been the founding member of 4 technology companies and has built systems for companies like GE, Pfizer, Gartner Group and Lucent. He also teaches graduate level software courses at Fairfield University.",
+				"twitter_handle": "",
+				"sessions": [],
+				"__v": 0,
+				"company": "FICO",
+				"title": "Software Architect"
+			}
+		],
+		"__v": 1,
+		"order_index": 0,
+		"survey_link": "https://www.surveymonkey.com/s/VPPWT8K"
+	},
+	{
+		"_id": "55012c600deea20300d0d45f",
+		"title": "Web 2.0/Java development industrialization for a bank - simplicity, efficiency and security ",
+		"description": "What if you had to elaborate a unique Web 2.0 development standard for an enterprise of over 3000 IT staff worldwide? There are multiple projects, multiple development teams, multiple locations, but also many talented developers with different visions and preferences, who will challenge your solution. We were in this situation in BNP Paribas Securities Services 3 years ago. Having a unique standard has a lot of advantages, including cross-project code reuse, and uniform end user experience. However it must be really universal, productive and responding to all possible requirements. Sencha ExtJS was a good choice for presentation framework, but that was just a beginning. More elements are needed for successful software development industrialization: adapted architecture, server-side stack(s), security, development guidelines, ergonomic standards, custom components, etc... Today the solution brings entire satisfaction inside the enterprise and we are proud to share some of its aspects with the community.\n\nWe’ll talk how to make applications development with Sencha Frameworks and Java server stack secure but really simple, with minimal learning curve, much simpler that Java development used to be in Web 1.0 era.",
+		"date": "2015-04-09",
+		"start_time": "11:30 AM",
+		"end_time": "12:20 PM",
+		"hashtag": "",
+		"track": {
+			"_id": "54f1369dd1bcf203004dafa6",
+			"name": "Develop",
+			"order_index": 2,
+			"__v": 0
+		},
+		"location": {
+			"_id": "54fd35b7a4198c0300081767",
+			"name": "Mission City Ballroom M1",
+			"__v": 0
+		},
+		"speakers": [
+			{
+				"_id": "54fdd20112b592030001d4ec",
+				"avatar_url": "http://cdn2.hubspot.net/hub/439787/file-2520276497-jpg/img/headshots/VitaliyShevchuk.jpg?t=1424529046577&amp;t=1425695939615",
+				"name": "Vitaliy Shevchuk",
+				"bio": "Passionate about new technologies, with 18 years of IT experience, Vitaliy Shevchuk has for the last 10 years worked as the Java/Web Architecture Leader at BNP Paribas Securities Services. He is a Sun Certified Enterprise Architect since 2003 and the creator of ajaxAnywhere open source framework in 2005.",
+				"twitter_handle": "",
+				"sessions": [],
+				"__v": 0,
+				"company": "BNP Paribas Securities Services",
+				"title": "Lead Java/Web Architect"
+			}
+		],
+		"__v": 1,
+		"order_index": 0,
+		"survey_link": "https://www.surveymonkey.com/s/VPTNTSQ"
+	},
+	{
+		"_id": "55012c950deea20300d0d460",
+		"title": "Case Study: Using Siesta Test Suite to avoid regressions",
+		"description": "Avoiding quality regressions in existing functionality is one of the fundamental challenges implied by frequent releases in agile software development. Every new development cycle brings new functionality, as well as risk to existing functionality. Test automation sounds like a straightforward answer to the issue. How do you implement frequent test execution though, if the existing functionality has to work on multiple platforms and/or browsers? Is automation worth the cost?\n\nThe session will explain and demo Siesta test automation as a way to address the issue and talk about lessons learned from real-world ExtJS projects.",
+		"date": "2015-04-09",
+		"start_time": "11:30 AM",
+		"end_time": "12:20 PM",
+		"hashtag": "",
+		"track": {
+			"_id": "54f1369dd1bcf203004dafa6",
+			"name": "Develop",
+			"order_index": 2,
+			"__v": 0
+		},
+		"location": {
+			"_id": "54fd35b7c57bbb03002c6f56",
+			"name": "Mission City Ballroom M2/M3",
+			"__v": 0
+		},
+		"speakers": [
+			{
+				"_id": "54fdd2030fc1100300fcf1d5",
+				"avatar_url": "http://cdn2.hubspot.net/hub/439787/file-2527770370-jpg/img/headshots/GaborPuhalla.jpg?t=1424529046577&amp;t=1425695939615",
+				"name": "Gábor Puhalla",
+				"bio": "Gábor Puhalla - Managing Director of profiq, delivering software engineering services from the Czech Republic to agile software houses in Silicon Valley. Specializes in management of highly skilled technical teams, QA and web security. Formerly held software engineering management positions at Oracle and Sun Microsystems. Co-founder and proud member of [pro]Test!, local test community in the Czech Republic and contributes to the international test community via International Software Testing Qualifications Board, reviewer of the Agile Tester - Foundation Level Extension Syllabus.",
+				"twitter_handle": "",
+				"sessions": [],
+				"__v": 0,
+				"company": "profiq",
+				"title": "Managing Director"
+			}
+		],
+		"__v": 1,
+		"order_index": 0,
+		"survey_link": "https://www.surveymonkey.com/s/VPG3R7C"
+	},
+	{
+		"_id": "55012ce40deea20300d0d462",
+		"title": "Sencha powered applications with compelling user interfaces ",
+		"description": "Visual presentations are often key criteria for customers making app development framework choices. For a data driven and UI rich application, it is easy to head into the wrong direction by selecting Bootstrap (formerly Twitter Bootstrap) themes and templates along with an unstructured backend framework. Such a stack does not provide all the necessary ingredients of a true framework such as data package, event and gesture handlers, layout manager, etc., which are critical to building high performance data rich enterprise applications.\n\nThis session will demonstrate by real examples how developers can create similar look and feel and compelling user experiences, while utilizing a better, scalable, and more robust application architecture using Sencha Ext JS. You will also learn how you can add total responsiveness to your applications using simple Sencha Ext JS configurations and their combinations.",
+		"date": "2015-04-09",
+		"start_time": "1:30 PM",
+		"end_time": "2:20 PM",
+		"hashtag": "",
+		"track": {
+			"_id": "54f1369dd1bcf203004dafa6",
+			"name": "Develop",
+			"order_index": 2,
+			"__v": 0
+		},
+		"location": {
+			"_id": "54fd3529a4198c0300081766",
+			"name": "Mission City Ballroom B4",
+			"__v": 0
+		},
+		"speakers": [
+			{
+				"_id": "54fdd20212b592030001d4ef",
+				"avatar_url": "http://cdn2.hubspot.net/hub/439787/file-2520276477-jpg/img/headshots/MitulBid.jpg?t=1424529046577&amp;t=1425695939615",
+				"name": "Mitul Bid",
+				"bio": "Mitul Bid has been working with Sencha technologies for over 5 years. A large part of his focus has been creating visually compelling user experiences. Mitul has been responsible for delivering large enterprise applications built using Sencha frameworks to several clients across the globe. Mitul graduated as a Computer Scientist from IIT Bombay and is the founder of Coditas, a company focussed on delivering solutions around the Sencha technologies.",
+				"twitter_handle": "",
+				"sessions": [],
+				"__v": 0,
+				"company": "Coditas",
+				"title": "Co-founder & CEO"
+			}
+		],
+		"__v": 1,
+		"order_index": 0,
+		"survey_link": "https://www.surveymonkey.com/s/VP22B5C"
+	},
+	{
+		"_id": "55012d3c0deea20300d0d463",
+		"title": "Deep dive into application configuration and the microloader",
+		"description": "Learn how app.json and the microloader work together to give you development time convenience as well as run-time flexibility and efficiency. Use build profiles to target multiple themes, locales and devices for a single application.",
+		"date": "2015-04-09",
+		"start_time": "1:30 PM",
+		"end_time": "2:20 PM",
+		"hashtag": "",
+		"track": {
+			"_id": "54f1369dd1bcf203004dafa6",
+			"name": "Develop",
+			"order_index": 2,
+			"__v": 0
+		},
+		"location": {
+			"_id": "54fd35b7a4198c0300081768",
+			"name": "Mission City Ballroom B5",
+			"__v": 0
+		},
+		"speakers": [
+			{
+				"_id": "54fdd2040fc1100300fcf1db",
+				"avatar_url": "http://cdn2.hubspot.net/hub/439787/file-2511562206-jpg/img/headshots/RossGerbasi.jpg?t=1424529046577&amp;t=1425695939615",
+				"name": "Ross Gerbasi",
+				"bio": "Ross Gerbasi is a Senior Engineer at Sencha and is located in Chicago. Ross has been programming for over 15 years and has worked with Sencha Touch for over 3 years. He specializes in new and emerging media including video and graphics production and has contributed to the open source community on emerging interactive solutions. His work on Sencha and Cordova integration allow him to fuse his many skills into a single focus to provide app developers with tools to help simplify building mobile apps.",
+				"twitter_handle": "",
+				"sessions": [],
+				"__v": 0,
+				"company": "Sencha",
+				"title": "Senior Software Engineer"
+			}
+		],
+		"__v": 1,
+		"order_index": 0,
+		"survey_link": "https://www.surveymonkey.com/s/VPQ5FDJ"
+	},
+	{
+		"_id": "55012d7b0deea20300d0d464",
+		"title": "App security and app stores for an evolving enterprise cross platform world ",
+		"description": "This session is a 10,000 foot survey of the different approaches by MDM vendors as it relates to securing enterprise apps and their data. The presentation will cover different types of secure MDM containers a developer may encounter and their implications for development. Understanding the various approaches to Enterprise App Security will enable developers to seek new markets for their Cordova/PhoneGap or native Apps by making their apps available to Enterprise App Stores.",
+		"date": "2015-04-09",
+		"start_time": "1:30 PM",
+		"end_time": "2:20 PM",
+		"hashtag": "",
+		"track": {
+			"_id": "54f1369dd1bcf203004dafa6",
+			"name": "Develop",
+			"order_index": 2,
+			"__v": 0
+		},
+		"location": {
+			"_id": "54fd35b7a4198c0300081767",
+			"name": "Mission City Ballroom M1",
+			"__v": 0
+		},
+		"speakers": [
+			{
+				"_id": "54fdd2020fc1100300fcf1ce",
+				"avatar_url": "http://cdn2.hubspot.net/hub/439787/file-2522689694-jpg/img/headshots/ShikhirSingh.jpg?t=1424529046577&amp;t=1425695939615",
+				"name": "Shikhir Singh",
+				"bio": "Shikhir is a Senior Enterprise Solutions Manager at BlackBerry. He specializes in Enterprise Mobility, Cryptography, and cross platform app development. Prior to working at BlackBerry, Shikhir worked at Lockheed Martin and Sun Microsystems.",
+				"twitter_handle": "",
+				"sessions": [],
+				"__v": 0,
+				"company": "BlackBerry",
+				"title": "Senior Enterprise Solutions Manager"
+			}
+		],
+		"__v": 1,
+		"order_index": 0,
+		"survey_link": "https://www.surveymonkey.com/s/VPRD2QP"
+	},
+	{
+		"_id": "55012da20deea20300d0d465",
+		"title": "Automating unit testing for Sencha Ext JS apps with Jasmine ",
+		"description": "Writing unit tests for JavaScript based applications has been difficult at best and ignored at worst, and ExtJS is no exception. Developers tend to focus exclusively on visual testing of components which tend to get cumbersome, and expensive as projects grow in size. Most automation testing efforts tend to focus on browser specific testing based on the visual aspects of the UI using frameworks like Selenium. While this is definitely important, the product quality can also be enhanced by writing good quality unit tests. This paper describes a method to perform unit testing using Jasmine 2.0, ExtJS 5.0.x, leveraging the Sencha Command generated application workspace structure, making it easy to write and automate unit tests. It also presents some techniques to generate TestNG style automated tests with fixtures.",
+		"date": "2015-04-09",
+		"start_time": "1:30 PM",
+		"end_time": "2:20 PM",
+		"hashtag": "",
+		"track": {
+			"_id": "54f1369dd1bcf203004dafa6",
+			"name": "Develop",
+			"order_index": 2,
+			"__v": 0
+		},
+		"location": {
+			"_id": "54fd35b7c57bbb03002c6f56",
+			"name": "Mission City Ballroom M2/M3",
+			"__v": 0
+		},
+		"speakers": [
+			{
+				"_id": "54fdd20312b592030001d4f0",
+				"avatar_url": "http://cdn2.hubspot.net/hub/439787/file-2511562186-jpg/img/headshots/KollivakkamRaghaven.jpg?t=1424529046577&amp;t=1425695939615",
+				"name": "Kollivakkam Raghavan",
+				"bio": "Kollivakkam is a Principal Engineer at Cisco responsible for the architecture, design and delivery of the Management platform for Cisco’s Intercloud Fabric product. Kollivakkam has been using ExtJS for the last 5 years building network management platforms at F5 Networks, Mobileiron, Netapp, and Cisco. Kollivakkam enjoys building reusable components, and is passionate about great UX and architecture. Kollivakkam has spent a significant amount of time in performance tuning ExtJS grids and trees. In his current role, he is evangelizing agile methodologies and promoting practices such as TDD for Sencha based applications to ensure a high quality product.",
+				"twitter_handle": "",
+				"sessions": [],
+				"__v": 0,
+				"company": "Cisco",
+				"title": "Principal Engineer"
+			}
+		],
+		"__v": 1,
+		"order_index": 0,
+		"survey_link": "https://www.surveymonkey.com/s/VPSQZY6"
+	},
+	{
+		"_id": "55012de60deea20300d0d466",
+		"title": "Leveraging ViewModels and Data Binding ",
+		"description": "Sencha introduced MVVM in Ext JS 5.0, including the support for two-way data binding. In this session, we will show what really goes on behind the scenes when it comes to view models, data binding, formulas and more. You will learn how view models manage data, update bound properties, mange stores, and individual records. You will also learn how your existing applications can be modified to leverage MVVM.\n\nSpeaker :  Don Griffin, Sencha ",
+		"date": "2015-04-09",
+		"start_time": "2:30 PM",
+		"end_time": "3:20 PM",
+		"hashtag": "",
+		"track": {
+			"_id": "54f1369dd1bcf203004dafa6",
+			"name": "Develop",
+			"order_index": 2,
+			"__v": 0
+		},
+		"location": {
+			"_id": "54fd3529a4198c0300081766",
+			"name": "Mission City Ballroom B4",
+			"__v": 0
+		},
+		"speakers": [
+			{
+				"_id": "54fdd20612b592030001d4fb",
+				"avatar_url": "http://cdn2.hubspot.net/hub/439787/file-2511562181-jpg/img/headshots/DonGriffin.jpg?t=1424529046577&amp;t=1425695939615",
+				"name": "Don Griffin",
+				"bio": "Don Griffin is the engineering manager for Ext JS and Sencha Touch. He was an Ext JS user for 2 years before joining Sencha and has over 20 years of software engineering experience on a broad range of platforms. His experience includes designing web application front-ends and back-ends, native GUI applications, network protocols and device drivers. Don’s passion is to build world class products that people love to use.",
+				"twitter_handle": "",
+				"sessions": [],
+				"__v": 0,
+				"company": "Sencha",
+				"title": "Engineering Manager"
+			}
+		],
+		"__v": 1,
+		"order_index": 0,
+		"survey_link": "https://www.surveymonkey.com/s/VPDPT6B"
+	},
+	{
+		"_id": "5501352d7c4c0d030033105c",
+		"title": "Mastering Ext JS 5 ViewControllers ",
+		"description": "Ext JS 5 delivered exciting improvements for your application architecture. ViewControllers can simplify and enhance your MVC applications, and they are not mutually exclusive with ViewModels. You can introduce these features incrementally or even blend them. Learn how to keep your views declarative using ViewControllers, and organize listeners and other handlers for maintainability. You will also learn how to use ViewControllers to handle events from ViewModels.",
+		"date": "2015-04-09",
+		"start_time": "3:40 PM",
+		"end_time": "4:30 PM",
+		"hashtag": "",
+		"track": {
+			"_id": "54f1369dd1bcf203004dafa6",
+			"name": "Develop",
+			"order_index": 2,
+			"__v": 0
+		},
+		"location": {
+			"_id": "54fd3529a4198c0300081766",
+			"name": "Mission City Ballroom B4",
+			"__v": 0
+		},
+		"speakers": [
+			{
+				"_id": "54fdd20412b592030001d4f5",
+				"avatar_url": "http://cdn2.hubspot.net/hub/439787/file-2522689684-jpg/img/headshots/PhilGuerrant.jpg?t=1424529046577&amp;t=1425695939615",
+				"name": "Phil Guerrant",
+				"bio": "Phil is a Senior Software Engineer at Sencha. He has spent over a decade of his life developing rich user interfaces on both mobile and desktop platforms. These days, Phil continues to enjoy his passion for web user interface as a core member of the Ext JS development team.",
+				"twitter_handle": "",
+				"sessions": [],
+				"__v": 0,
+				"company": "Sencha",
+				"title": "Senior Software Engineer"
+			}
+		],
+		"__v": 1,
+		"order_index": 0,
+		"survey_link": "https://www.surveymonkey.com/s/VPK5LSY"
+	},
+	{
+		"_id": "550135f87c4c0d030033105d",
+		"title": "Re‐Inventing Desktop Publishing: Web based templating and layouting for documents ",
+		"description": "Creating documents has always been a big challenge when it comes to the point of bringing together templates, dynamic content and document generation, especially when you are looking for a web based solution. Imagine what is needed for creating a document: first of all, we need a template which basically defines the layout, some dynamic content (e.g. images and text from a database) and finally some logic which places and fits the content on the document. And wouldn't it be nice to enable the user to review or edit the generated layout online in a “What You See Is What You Get” (WYSIWYG) editor, without switching between the browser and some third‐party offline solution? In this session the audience will learn how powerful custom Ext JS Drag & Drop components can be to generate a web based templating and layout solution.",
+		"date": "2015-04-09",
+		"start_time": "3:40 PM",
+		"end_time": "4:30 PM",
+		"hashtag": "",
+		"track": {
+			"_id": "54f1369dd1bcf203004dafa6",
+			"name": "Develop",
+			"order_index": 2,
+			"__v": 0
+		},
+		"location": {
+			"_id": "54fd35b7a4198c0300081767",
+			"name": "Mission City Ballroom M1",
+			"__v": 0
+		},
+		"speakers": [
+			{
+				"_id": "54fdd2010fc1100300fcf1cc",
+				"avatar_url": "http://cdn2.hubspot.net/hub/439787/file-2511562216-jpg/img/headshots/TimRiedel.jpg?t=1424529046577&amp;t=1425695939615",
+				"name": "Tim Riedel",
+				"bio": "Time Riedel is the CEO and founder of eyeworkers. He has been into web development for almost two decades, and is working with Sencha frameworks since its inception. Tim’s company, eyeworkers interactive GmbH, is a Sencha Select Partner and helps large companies in introducing web based solutions built on Sencha technologies. Tim has been instrumental in organizing everal Sencha related events across the globe.",
+				"twitter_handle": "",
+				"sessions": [],
+				"__v": 0,
+				"company": "eyeworkers",
+				"title": "CEO"
+			}
+		],
+		"__v": 1,
+		"order_index": 0,
+		"survey_link": "https://www.surveymonkey.com/s/VHBYDPG"
+	},
+	{
+		"_id": "550136597c4c0d030033105e",
+		"title": "Memory Leak Health Check ",
+		"description": "Our Quest to Diagnose & Cure Browser memory leaks are a little understood problem that affect almost all web developers at some point in their careers. JavaScript has taken center stage in recent years by enabling us to create ever more complex front-ends and integrate numerous frameworks to maximize results. Better management of memory will lead to performance improvements, enhanced capacity for running on limited resources and increased working lifecycle without crashes.\n\nThe session will give an overview to memory management in the browser and introduce common tools and techniques for identifying and investigating web application memory leaks. With practical examples, we will look at browser-based tools, such as, Memory Timeline and Heap Snapshots to equip you with the knowledge to find the problems in your own applications. Following this, we will take a deeper dive into specific areas we recommend you look at when developing Ext JS and Sencha Touch applications. You will be shown how to isolate, fix and test the main components of your Sencha apps. This will include looking at data parsing in Stores & Models, writing efficient controller code and common pitfalls in views. You’ll leave this session better equipped to find and resolve leaks in your own Sencha apps!",
+		"date": "2015-04-09",
+		"start_time": "3:40 PM",
+		"end_time": "4:30 PM",
+		"hashtag": "",
+		"track": {
+			"_id": "54f1369dd1bcf203004dafa6",
+			"name": "Develop",
+			"order_index": 2,
+			"__v": 0
+		},
+		"location": {
+			"_id": "54fd35b7c57bbb03002c6f56",
+			"name": "Mission City Ballroom M2/M3",
+			"__v": 0
+		},
+		"speakers": [
+			{
+				"_id": "54fdd20412b592030001d4f4",
+				"avatar_url": "http://cdn2.hubspot.net/hub/439787/file-2572841125-jpg/img/headshots/AndrewDuncan.jpg?t=1425695939615",
+				"name": "Andrew Duncan ",
+				"bio": "Andrew has combined a passion for IT with a strong aptitude for business to create SwarmOnline - one of Scotland’s fastest growing tech companies. Three years ago he founded SwarmOnline who became Sencha’s first partner outside of the U.S. Since then Andrew has grown the business year on year and acknowledges that Sencha has had a huge impact on his success. Although Andrew is a Managing Director, he is also an experienced and highly competent technologist and solutions architect. He has co-written Ext JS 4 Web Application Development Cookbook and is currently busy writing another two Ext JS books, due out soon. Last year Andrew’s success was recognized when he received a nomination for Young Business Person of the Year at the prestigious Glasgow Business Awards. Andrew is a sought after conference speaker. Previous speaking engagements include SenchaCon 2013 in Florida, Citi Group HTML5 Developer Conference in Dublin and ModUXCon in Amsterdam.",
+				"twitter_handle": "",
+				"sessions": [],
+				"__v": 0,
+				"company": "SwarmOnline",
+				"title": "Managing Director"
+			}
+		],
+		"__v": 1,
+		"order_index": 0,
+		"survey_link": "https://www.surveymonkey.com/s/VH6ZVVB"
+	},
+	{
+		"_id": "550137317c4c0d030033105f",
+		"title": "Improved accessibility support with Sencha Ext JS 5 ",
+		"description": "Is accessibility suport and ADA / Section 508 compliance critical to your business? This session will cover the WCAG 2.0 guidelines for achieving ADA / Section 508 compliance with your application. We will show you how you can meet the guidelines by utilizing improved capabilities in Sencha Ext JS 5.x such as keyboard navigation, focus management, and ARIA roles for screen readers and other assistive technologies.",
+		"date": "2015-04-09",
+		"start_time": "4:40 PM",
+		"end_time": "5:30 PM",
+		"hashtag": "",
+		"track": {
+			"_id": "54f1369dd1bcf203004dafa6",
+			"name": "Develop",
+			"order_index": 2,
+			"__v": 0
+		},
+		"location": {
+			"_id": "54fd3529a4198c0300081766",
+			"name": "Mission City Ballroom B4",
+			"__v": 0
+		},
+		"speakers": [
+			{
+				"_id": "54fdd2060fc1100300fcf1e0",
+				"avatar_url": "http://cdn2.hubspot.net/hub/439787/file-2511557171-jpg/img/headshots/AlexTokarev.jpg?t=1424529046577&amp;t=1425695939615",
+				"name": "Alex Tokarev",
+				"bio": "Alex Tokarev is a veteran engineer and systems architect. Having built several of the largest enterprise call centers in Russia, Alex was considered one of the top experts in his field when he decided to seek new challenges and switched to software engineering. Alex has founded a software startup, learned how to hack in Perl and JavaScript and immigrated to the USA. Believing that Ext JS can be made even more awesome, Alex joined Sencha in 2012 and has been busy cranking out features and squashing bugs ever since. Alex dwells among the redwoods in Northern California, and when not working he can be found hiking in the forests, obsessing over pictures in his photo lab, or playing with his two sons.",
+				"twitter_handle": "",
+				"sessions": [],
+				"__v": 0,
+				"company": "Sencha",
+				"title": "Software Engineer"
+			}
+		],
+		"__v": 1,
+		"order_index": 0,
+		"survey_link": "https://www.surveymonkey.com/s/VH3NRMH"
+	},
+	{
+		"_id": "5501375b0deea20300d0d46b",
+		"title": "Speed Up the Development of Enterprise Portals with Ext JS ",
+		"description": "Think of a step forward in the future. Do you really need to develop all the \"REST\" services by yourself? Can’t Java EE portal help you to easily plug all your enterprise services into an Ext JS front-end? Ext JS makes the web development easier than ever by providing a comprehensive framework. But what about the \"frequently expected\" business services such as social networking or document management or even technical services such as user/access control management or long-running/global transactions? Do you really need to develop them yourself?\n\nSome of you may have used Google services for document management, and other similar service platforms. They are fit for specific web and mobile development needs. But most organizations today are reluctant to entrust their critical data with such service providers. Why not simply use out-of-the-box solutions? Java EE is a good framework that answers most professional needs. It only lacks the glue that would make all its solutions work easily together. In this session, we will demonstrate how a Java EE portal such as eXo Platform can be that glue, by replacing or working alongside the service platforms you may be used to. eXo is an Enterprise Social Platform with many services and fantastic APIs. We will first show you how easy the front-end integration is and then use an out-of-the-box feature to demonstrate the eXo Platform capabilities.",
+		"date": "2015-04-09",
+		"start_time": "4:40 PM",
+		"end_time": "5:30 PM",
+		"hashtag": "",
+		"track": {
+			"_id": "54f1369dd1bcf203004dafa6",
+			"name": "Develop",
+			"order_index": 2,
+			"__v": 0
+		},
+		"location": {
+			"_id": "54fd35b7a4198c0300081768",
+			"name": "Mission City Ballroom B5",
+			"__v": 0
+		},
+		"speakers": [
+			{
+				"_id": "54fdd20312b592030001d4f1",
+				"avatar_url": "http://cdn2.hubspot.net/hub/439787/file-2561505622-jpg/img/headshots/JeanPhilippeEhret.jpg?t=1425695939615",
+				"name": "Jean-Philippe Ehret",
+				"bio": "Jean-Philippe Ehret is the COO at Jnesis, a company dedicated to the development of efficient business solutions integrating both Java and JavaScript. Jnesis' strong commitment to innovation in both technology and management have led to new solutions reducing dramatically the development costs of B to B applications, leading Jean-Philippe to expand its activity in nearby European countries and, naturally, towards a partnership with Sencha. Genuinely passionate about his work and cutting-edge technologies, Jean-Philippe also shares his expertise in open-source alternatives to Java EE architectures at one of France's leading school of software engineering, and acts as a trainer for professional developers in widely recognized training institutions.",
+				"twitter_handle": "",
+				"sessions": [],
+				"__v": 0,
+				"company": "Jnesis",
+				"title": "Founder & COO"
+			},
+			{
+				"_id": "54fdd2040fc1100300fcf1d8",
+				"avatar_url": "http://cdn2.hubspot.net/hub/439787/file-2557678828-jpg/img/headshots/BenjaminMestrallet.jpg?t=1425695939615",
+				"name": "Benjamin Mestrallet",
+				"bio": "Benjamin Mestrallet is the CEO of eXo, a company he founded just out of university to serve its first customer, the U.S. Department of Defense. With eXo's recent expansion to North America, Benjamin now oversees the Company's growth, marketing and sales strategy from San Francisco. He first created the eXo project while a student and, in December 2002, delivered the industry's first Java portlet container. Under Benjamin's leadership, eXo has expanded globally with operations in five countries and its product line to be the most comprehensive portfolio of open source collaboration software on the market. In recognition of his leadership and business savvy, a jury of France's top technology executives honored Benjamin as 2008's most outstanding young technology leader with the IVY Award. He holds an advanced master's degree in management science from the University of Paris IX, Dauphine.",
+				"twitter_handle": "",
+				"sessions": [],
+				"__v": 0,
+				"company": "eXo",
+				"title": "Founder and CEO"
+			}
+		],
+		"__v": 2,
+		"order_index": 0,
+		"survey_link": "https://www.surveymonkey.com/s/VHW8KYX"
+	},
+	{
+		"_id": "550139780deea20300d0d46c",
+		"title": "Node.js from Scratch: REST API: Write a Sencha-compatible REST API from scratch",
+		"description": "Leveraging the numerous node.js modules available is great for getting your node.js server application up and running, but when you really need to know what’s happening behind the scenes, there’s no substitute for building the entire web server from scratch. Our server will also support server-side sorting and filtering. (We will be using SQLite as the database back end, for simplicity).",
+		"date": "2015-04-09",
+		"start_time": "4:40 PM",
+		"end_time": "5:30 PM",
+		"hashtag": "",
+		"track": {
+			"_id": "54f1369dd1bcf203004dafa6",
+			"name": "Develop",
+			"order_index": 2,
+			"__v": 0
+		},
+		"location": {
+			"_id": "54fd35b7a4198c0300081767",
+			"name": "Mission City Ballroom M1",
+			"__v": 0
+		},
+		"speakers": [
+			{
+				"_id": "54fdd2020fc1100300fcf1d0",
+				"avatar_url": "http://cdn2.hubspot.net/hub/439787/file-2522689674-jpg/img/headshots/PatrickChu.jpg?t=1424529046577&amp;t=1425695939615",
+				"name": "Patrick Chu",
+				"bio": "Patrick Chu is currently a senior ExtJS Architect. In past, Patrick was employed as a technical trainer with Sencha teaching both the ExtJS and Sencha Touch classes. He has previously led the 1-day Sencha Touch Bootcamp at SenchaCon 2013, where he also gave two session talks. He has also spoken at Devlink and the Heartland Developer's Conference.",
+				"twitter_handle": "",
+				"sessions": [],
+				"__v": 0,
+				"company": "",
+				"title": "Ext JS Senior Architect"
+			}
+		],
+		"__v": 1,
+		"order_index": 0,
+		"survey_link": "https://www.surveymonkey.com/s/VHNQ6QC"
+	},
+	{
+		"_id": "550139a40deea20300d0d46d",
+		"title": "How to shorten app development timescales by designing a unique and highly innovative framework based on ExtJS and Node.js ",
+		"description": "With the emergence of the Cloud, many firms see the importance and the necessity of re-developing their legacy internal applications on the Web in order to gain process agility and deployment efficiency. Time is precious to benefit from the competitivity Web applications offer and I had to find a way to accelerate development cycle to meet the needs of KPMG, one of the world big 4 auditors. The solution found was to generate the entire application (from its database model to its user interface) based on a graph of business classes. In order to build the stack, I chose ExtJS for the user interface layer as it offers a great flexibility and a large number of high quality components. For the business object layer, I used JavaScript language which is compatible with most devices. As for the server layer, I picked Node.js, due to its amazing speed and its integration with JavaScript. The framework implementation required the extension of many ExtJS components, the design of an asynchronous JavaScript class mechanism, the creation of an object query language and the development of a proprietary Web server powered by Node.js. With the help of a talented team it was then possible to cut development times by 5 and to reduce operating costs by 1300% in comparison to the previous application. The highly innovative character of the final application generated by the framework, combined with the full integration into ExtJS of “Sharepoint 2013” and “Office Web App”, led to a unique, much faster and 30% more productive solution than competing ones.",
+		"date": "2015-04-09",
+		"start_time": "4:40 PM",
+		"end_time": "5:30 PM",
+		"hashtag": "",
+		"track": {
+			"_id": "54f1369dd1bcf203004dafa6",
+			"name": "Develop",
+			"order_index": 2,
+			"__v": 0
+		},
+		"location": {
+			"_id": "54fd35b7c57bbb03002c6f56",
+			"name": "Mission City Ballroom M2/M3",
+			"__v": 0
+		},
+		"speakers": [
+			{
+				"_id": "54fdd2040fc1100300fcf1d6",
+				"avatar_url": "http://cdn2.hubspot.net/hub/439787/file-2522689654-jpg/img/headshots/ChristianTaltas.jpg?t=1424529046577&amp;t=1425695939615",
+				"name": "Christian Taltas",
+				"bio": "Christian Taltas, a Web Applications Architect with 17 years of expertise, has always been an entrepreneur and, as seen by his peers, a “man of vision, strategy and action”. He is also considered as an expert in Node.js and has spent the last 3 years in developing his new framework based on Node.js and Sencha Ext JS 5.",
+				"twitter_handle": "",
+				"sessions": [],
+				"__v": 0,
+				"company": "KPMG",
+				"title": "Managing Director"
+			}
+		],
+		"__v": 1,
+		"order_index": 0,
+		"survey_link": "https://www.surveymonkey.com/s/VHP76XS"
+	},
+	{
+		"_id": "550128b27c4c0d0300331056",
+		"title": "Rapidly theme GXT apps with the new theme builder",
+		"description": "",
+		"date": "2015-04-09",
+		"start_time": "9:30 AM",
+		"end_time": "10:20 AM",
+		"hashtag": "",
+		"track": {
+			"_id": "54f1369dd1bcf203004dafa6",
+			"name": "Develop",
+			"order_index": 2,
+			"__v": 0
+		},
+		"location": {
+			"_id": "54fd35b7a4198c0300081768",
+			"name": "Mission City Ballroom B5",
+			"__v": 0
+		},
+		"speakers": [
+			{
+				"_id": "551e340b9f8dd30300848591",
+				"avatar_url": "http://cdn2.hubspot.net/hubfs/439787/img/headshots/BrandonDonnelson.jpg?t=1428481721250",
+				"name": "Brandon Donnelson",
+				"title": "Support Engineer",
+				"company": "Sencha",
+				"bio": "Brandon is a GXT Support Engineer with Sencha and has over 10 years of experience in web app development. He specializes in web, Java, and GWT apps as well as developing IDE plugins and writing documentation. Brandon enjoys helping people develop web applications that improve their lives.",
+				"twitter_handle": "",
+				"sessions": [],
+				"__v": 0
+			}
+		],
+		"__v": 1,
+		"order_index": -1,
+		"survey_link": "https://www.surveymonkey.com/s/BFD68KC"
+	},
+	{
+		"_id": "5500ef027c4c0d0300331044",
+		"title": "Sencha Ext JS Jumpstart Training",
+		"description": "",
+		"date": "2015-04-07",
+		"start_time": "9:00 AM",
+		"end_time": "12:00 PM",
+		"hashtag": "",
+		"track": {
+			"_id": "54fdd22412b592030001d4fe",
+			"name": "Training",
+			"order_index": 0,
+			"__v": 0
+		},
+		"location": {
+			"_id": "54fd3529a4198c0300081766",
+			"name": "Mission City Ballroom B4",
+			"__v": 0
+		},
+		"speakers": [
+			{
+				"_id": "54fdd20512b592030001d4f8",
+				"avatar_url": "http://cdn2.hubspot.net/hub/439787/file-2520382218-jpg/img/headshots/MaxRahder.jpg?t=1424529046577&amp;t=1425695939615",
+				"name": "Max Rahder",
+				"bio": "Max is a member of the Sencha Training team, with over 25 years of experience in web and mobile app development, JavaScript, Java and cloud computing. He lives in Madison, Wisconsin.​",
+				"twitter_handle": "",
+				"sessions": [],
+				"__v": 0,
+				"company": "Sencha",
+				"title": "Senior Trainer"
+			}
+		],
+		"__v": 1,
+		"order_index": 0,
+		"survey_link": "https://www.surveymonkey.com/s/CRK96KY"
+	},
+	{
+		"_id": "5500ef307c4c0d0300331045",
+		"title": "Sencha GXT Jumpstart Training",
+		"description": "",
+		"date": "2015-04-07",
+		"start_time": "9:00 AM",
+		"end_time": "12:00 PM",
+		"hashtag": "",
+		"track": {
+			"_id": "54fdd22412b592030001d4fe",
+			"name": "Training",
+			"order_index": 0,
+			"__v": 0
+		},
+		"location": {
+			"_id": "54fd35b7a4198c0300081768",
+			"name": "Mission City Ballroom B5",
+			"__v": 0
+		},
+		"speakers": [
+			{
+				"_id": "54fdd2060fc1100300fcf1df",
+				"avatar_url": "http://cdn2.hubspot.net/hub/439787/file-2511562176-jpg/img/headshots/DavidChandler.jpg?t=1424529046577&amp;t=1425695939615",
+				"name": "David Chandler",
+				"bio": "David fell in love with programming at age 14 on his TI-99/4A, studied electrical engineering at the University of Kansas, and soon after wrote the first published book on Web servers (Running a Perfect Web Site, 1995). He has worked on software for everything from airborne GPS receivers to Internet banking and has written Web applications in everything from C to ColdFusion to JSF and most recently GWT. As a Developer Advocate with Google for 3.5 years, Chandler supported the worldwide GWT and Android communities through blogging, open source projects, and conference speaking. He actively contributes to open source projects (github: turbomanage) and blogs about Java Web and mobile development at turbomanage.wordpress.com. Chandler lives in Colorado with his family and enjoys photography, hiking in Rocky Mountain National Park, skiing, piano, and teaching math and Java to high school students every now and then.",
+				"twitter_handle": "",
+				"sessions": [],
+				"__v": 0,
+				"company": "Sencha",
+				"title": "Senior Developer Advocate"
+			}
+		],
+		"__v": 1,
+		"order_index": 0,
+		"survey_link": "https://www.surveymonkey.com/s/CT9YFYM"
+	},
+	{
+		"_id": "5500ef8c0deea20300d0d447",
+		"title": "Sencha Ext JS Advanced Training",
+		"description": "",
+		"date": "2015-04-07",
+		"start_time": "1:30 PM",
+		"end_time": "4:30 PM",
+		"hashtag": "",
+		"track": {
+			"_id": "54fdd22412b592030001d4fe",
+			"name": "Training",
+			"order_index": 0,
+			"__v": 0
+		},
+		"location": {
+			"_id": "54fd3529a4198c0300081766",
+			"name": "Mission City Ballroom B4",
+			"__v": 0
+		},
+		"speakers": [
+			{
+				"_id": "54fdd20512b592030001d4f8",
+				"avatar_url": "http://cdn2.hubspot.net/hub/439787/file-2520382218-jpg/img/headshots/MaxRahder.jpg?t=1424529046577&amp;t=1425695939615",
+				"name": "Max Rahder",
+				"bio": "Max is a member of the Sencha Training team, with over 25 years of experience in web and mobile app development, JavaScript, Java and cloud computing. He lives in Madison, Wisconsin.​",
+				"twitter_handle": "",
+				"sessions": [],
+				"__v": 0,
+				"company": "Sencha",
+				"title": "Senior Trainer"
+			}
+		],
+		"__v": 1,
+		"order_index": 0,
+		"survey_link": "https://www.surveymonkey.com/s/CTMGFFP"
+	},
+	{
+		"_id": "5500efd07c4c0d0300331047",
+		"title": "Taking your Sencha GXT apps to Tablets",
+		"description": "",
+		"date": "2015-04-07",
+		"start_time": "1:30 PM",
+		"end_time": "4:30 PM",
+		"hashtag": "",
+		"track": {
+			"_id": "54fdd22412b592030001d4fe",
+			"name": "Training",
+			"order_index": 0,
+			"__v": 0
+		},
+		"location": {
+			"_id": "54fd35b7a4198c0300081768",
+			"name": "Mission City Ballroom B5",
+			"__v": 0
+		},
+		"speakers": [
+			{
+				"_id": "54fdd2060fc1100300fcf1df",
+				"avatar_url": "http://cdn2.hubspot.net/hub/439787/file-2511562176-jpg/img/headshots/DavidChandler.jpg?t=1424529046577&amp;t=1425695939615",
+				"name": "David Chandler",
+				"bio": "David fell in love with programming at age 14 on his TI-99/4A, studied electrical engineering at the University of Kansas, and soon after wrote the first published book on Web servers (Running a Perfect Web Site, 1995). He has worked on software for everything from airborne GPS receivers to Internet banking and has written Web applications in everything from C to ColdFusion to JSF and most recently GWT. As a Developer Advocate with Google for 3.5 years, Chandler supported the worldwide GWT and Android communities through blogging, open source projects, and conference speaking. He actively contributes to open source projects (github: turbomanage) and blogs about Java Web and mobile development at turbomanage.wordpress.com. Chandler lives in Colorado with his family and enjoys photography, hiking in Rocky Mountain National Park, skiing, piano, and teaching math and Java to high school students every now and then.",
+				"twitter_handle": "",
+				"sessions": [],
+				"__v": 0,
+				"company": "Sencha",
+				"title": "Senior Developer Advocate"
+			}
+		],
+		"__v": 1,
+		"order_index": 0,
+		"survey_link": "https://www.surveymonkey.com/s/CMSHPTT"
+	},
+	{
+		"_id": "55011fe27c4c0d030033104c",
+		"title": "Unleash the full fury of web innovation in your Android app today ",
+		"description": "Web technologies are improving at a rapid pace. New features such as responsive design, cloud services, WebRTC, WebGL, and Canvas provide developers with a great deal of potential. However, leveraging these features in a fragmented Android market is difficult, and oft-times impossible given the diversity of the various platform versions and capabilities.\n\nThis session introduces the Crosswalk Project, an open-source, Chromium-based, HTML5 framework that opens up the full set of leading-edge web innovations to Android developers and greatly reduces the fragmentation limitations. The Crosswalk Project is already available in Sencha's developer tools so build and deploy steps are right at your fingertips.",
+		"date": "2015-04-08",
+		"start_time": "1:30 PM",
+		"end_time": "2:20 PM",
+		"hashtag": "",
+		"track": {
+			"_id": "54f1369dd1bcf203004dafa6",
+			"name": "Develop",
+			"order_index": 2,
+			"__v": 0
+		},
+		"location": {
+			"_id": "54fd35b7a4198c0300081767",
+			"name": "Mission City Ballroom M1",
+			"__v": 0
+		},
+		"speakers": [
+			{
+				"_id": "54fdd2040fc1100300fcf1d7",
+				"avatar_url": "http://cdn2.hubspot.net/hub/439787/file-2511557166-jpg/img/headshots/BobSpencer.jpg?t=1424529046577&amp;t=1425695939615",
+				"name": "Bob Spencer",
+				"bio": "Bob Spencer is a Senior Software engineer at Intel where he has worked for the past 15 years on a variety of projects from system management, interactive television, and high availability clusters. For the past six years he has worked in Intel’s Open Source Technology Center focusing on developer tools for mobile and embedded systems. He is currently the Crosswalk Project community manager.",
+				"twitter_handle": "",
+				"sessions": [],
+				"__v": 0,
+				"company": "Intel",
+				"title": "Senior Software Engineer"
+			}
+		],
+		"__v": 1,
+		"order_index": 0,
+		"survey_link": "https://www.surveymonkey.com/s/V6FX8V5"
+	},
+	{
+		"_id": "550125960deea20300d0d454",
+		"title": "Using Sencha Space in a Highly-Regulated Healthcare Environment ",
+		"description": "In this session, we will discuss how the Sencha Space platform can be used in the highly-regulated healthcare world. Understanding the concerns that hospital systems and healthcare entities have about securing protected health information, Sencha Space provides the answer. Learn how Sencha Space can help bridge the gap between the overly zealous HIT staff who want to provide security, and the engineering team who are wanting to provide liberty by innovating the patient, physician, and clinician experience. Sencha Space is a platform upon which innovative healthcare operations will reap great benefits, all while maintaining security, privacy, and a common framework.",
+		"date": "2015-04-08",
+		"start_time": "3:40 PM",
+		"end_time": "4:30 PM",
+		"hashtag": "",
+		"track": {
+			"_id": "54f136a2d1bcf203004dafa7",
+			"name": "Deploy",
+			"order_index": 3,
+			"__v": 0
+		},
+		"location": {
+			"_id": "54fd35b7c57bbb03002c6f56",
+			"name": "Mission City Ballroom M2/M3",
+			"__v": 0
+		},
+		"speakers": [
+			{
+				"_id": "54fdd2030fc1100300fcf1d3",
+				"avatar_url": "http://cdn2.hubspot.net/hub/439787/file-2547552335-jpg/img/headshots/JoshKeely.jpg?t=1425695939615",
+				"name": "Josh Keely",
+				"bio": "Josh Keely is a successful entrepreneur, and is currently Vice President of Product Development at Delta Health Technologies. Josh is responsible for overseeing the design, development, and overall product vision for all of Delta’s care-­at-­home software solutions. Josh launched his professional career in healthcare when he founded a successful SaaS business in 2003, which was later acquired by Delta. In his current role, Josh acts as an agile facilitator and mentor for the entire department, along with fulfilling the role of “product visionary” by designing and prototyping new products and innovations. Josh spends his spare time discovering new ways to improve existing processes, inventing and prototyping with his 3D printer, and working with several non­profit entities. ",
+				"twitter_handle": "",
+				"sessions": [],
+				"__v": 0,
+				"company": "Delta Health Technologies",
+				"title": "VP, Product Development"
+			}
+		],
+		"__v": 1,
+		"order_index": 0,
+		"survey_link": "https://www.surveymonkey.com/s/V6CTYGD"
+	},
+	{
+		"_id": "550121cb7c4c0d030033104f",
+		"title": "Simplifying app analytics across platforms ",
+		"description": "This session explores the Space Event API and how it can be used to instrument applications for rich data capture on any desktop, tablet, or smart phone. Integrated reporting included in the platform makes the data instantly useful.",
+		"date": "2015-04-08",
+		"start_time": "2:30 PM",
+		"end_time": "3:20 PM",
+		"hashtag": "",
+		"track": {
+			"_id": "54f136a2d1bcf203004dafa7",
+			"name": "Deploy",
+			"order_index": 3,
+			"__v": 0
+		},
+		"location": {
+			"_id": "54fd35b7c57bbb03002c6f56",
+			"name": "Mission City Ballroom M2/M3",
+			"__v": 0
+		},
+		"speakers": [
+			{
+				"_id": "54fdd20512b592030001d4f7",
+				"avatar_url": "http://cdn2.hubspot.net/hub/439787/file-2520276487-jpg/img/headshots/NickHarlow.jpg?t=1424529046577&amp;t=1425695939615",
+				"name": "Nick Harlow",
+				"bio": "Nick is a seasoned technology professional. He has served in both engineering and product management roles at a range of small and large software companies. Over the course of his career, he has specialized in enterprise search, identity and access management, security of networks, endpoints, and the cloud, and secure mobile application development. He was awarded a patent for innovations in digital signature technology for the web. In his role with Sencha, he leads product management and marketing efforts for Sencha Space, a leading web application management, deployment, and security platform. He holds a Bachelor of Science in Computer Science from Stanford University and an MBA from INSEAD.",
+				"twitter_handle": "",
+				"sessions": [],
+				"__v": 0,
+				"company": "Sencha",
+				"title": "Director, Product Management"
+			}
+		],
+		"__v": 1,
+		"order_index": 0,
+		"survey_link": "https://www.surveymonkey.com/s/V6TWG9G"
+	},
+	{
+		"_id": "550134a50deea20300d0d469",
+		"title": "25 years of programming in a Couple of Days: Automatically Converting Legacy Applications to Mobile Apps ",
+		"description": "4Morphis automates the process by which legacy technology is converted to mobile and web applications. During our presentation we will show how 4Morphis automatically generates code from legacy applications and converts them to web based mobile applications. We will work through a case study showing how we converted an 1800 form, Oracle Forms application developed over 25 years to a mobile application on the web in a couple of days.",
+		"date": "2015-04-09",
+		"start_time": "2:30 PM",
+		"end_time": "3:20 PM",
+		"hashtag": "",
+		"track": {
+			"_id": "54f1369dd1bcf203004dafa6",
+			"name": "Develop",
+			"order_index": 2,
+			"__v": 0
+		},
+		"location": {
+			"_id": "54fd35b7c57bbb03002c6f56",
+			"name": "Mission City Ballroom M2/M3",
+			"__v": 0
+		},
+		"speakers": [
+			{
+				"_id": "551a584201026403007ead88",
+				"avatar_url": "http://cdn2.hubspot.net/hub/439787/file-2672256608-jpg/img/headshots/MorphisOwen.jpg?t=1427483970646",
+				"name": "Owen Pagan",
+				"title": "Founder",
+				"company": "4Morphis",
+				"bio": "Owen is one of the founders of 4Morphis. Based in Ireland, Owen started work as a programmer and web developer in 1998. After periods working as a management consultant and in corporate finance, he is now involved at management and board level in a number of high growth companies in the technology space including CoreHR, one of the UK’s and Irelands fastest growing HCM and payroll software companies.",
+				"twitter_handle": "",
+				"sessions": [],
+				"__v": 0
+			}
+		],
+		"__v": 1,
+		"order_index": 0,
+		"survey_link": "https://www.surveymonkey.com/s/VPJJZZW"
+	},
+	{
+		"_id": "55012a920deea20300d0d45e",
+		"title": "Visualizing Class Dependencies",
+		"description": "Debug tools are vital for building high quality software. We as developers are given tools to help us understand what is going on in our applications. Ext JS and Sencha Touch have a very powerful dependency management and Class System that sits at the core of both the frameworks and every application built with them. What if we wanted to dive a bit deeper under the hood and visualize our application? In this session we will take a look at the Sencha Cmd Dependency Viewer and how we can leverage it for our applications. The Dependency Viewer visualizes an application's class dependency hierarchy. We can trace any dependency down to where it is defined at the source level. This allows us to perform introspection on complex applications and optimize the architecture. We will also speak on how the Dependency Viewer was built by highlighting Sencha Cmd internals and technologies such as D3.js and SVG.",
+		"date": "2015-04-09",
+		"start_time": "10:30 AM",
+		"end_time": "11:20 AM",
+		"hashtag": "",
+		"track": {
+			"_id": "54f1369dd1bcf203004dafa6",
+			"name": "Develop",
+			"order_index": 2,
+			"__v": 0
+		},
+		"location": {
+			"_id": "54fd35b7c57bbb03002c6f56",
+			"name": "Mission City Ballroom M2/M3",
+			"__v": 0
+		},
+		"speakers": [
+			{
+				"_id": "551a594701026403007ead8e",
+				"avatar_url": "http://cdn2.hubspot.net/hub/439787/file-2672256613-jpg/img/headshots/ModusStanB.jpg?t=1427483970646",
+				"name": "Stan Bershadskiy  ",
+				"title": "Senior Engineer",
+				"company": "Modus Create",
+				"bio": "Stan Bershadskiy is an engineer at Modus Create. Originally a Java developer for a large enterprise, Stan sought out a more close knit environment, joining Modus Create in 2012. Stan has worked with Sencha products since 2008, originally with Ext JS 2 and GXT. Stan likes to involve himself in anything browser related particularly around JavaScript and building rich web apps for both desktop and mobile. He is located in New York City and can be found presenting or spectating at the NYC JS Meetup sponsored by Modus Create.",
+				"twitter_handle": "",
+				"sessions": [],
+				"__v": 0
+			}
+		],
+		"__v": 1,
+		"order_index": 0,
+		"survey_link": "https://www.surveymonkey.com/s/VPFNJ9D"
+	},
+	{
+		"_id": "550124a07c4c0d0300331050",
+		"title": "Introducing Fashion: Blazing fast theming for Ext JS",
+		"description": "",
+		"date": "2015-04-08",
+		"start_time": "3:40 PM",
+		"end_time": "4:30 PM",
+		"hashtag": "",
+		"track": {
+			"_id": "54f1369dd1bcf203004dafa6",
+			"name": "Develop",
+			"order_index": 2,
+			"__v": 0
+		},
+		"location": {
+			"_id": "54fd35b7a4198c0300081768",
+			"name": "Mission City Ballroom B5",
+			"__v": 0
+		},
+		"speakers": [
+			{
+				"_id": "54fdd20412b592030001d4f5",
+				"avatar_url": "http://cdn2.hubspot.net/hub/439787/file-2522689684-jpg/img/headshots/PhilGuerrant.jpg?t=1424529046577&amp;t=1425695939615",
+				"name": "Phil Guerrant",
+				"bio": "Phil is a Senior Software Engineer at Sencha. He has spent over a decade of his life developing rich user interfaces on both mobile and desktop platforms. These days, Phil continues to enjoy his passion for web user interface as a core member of the Ext JS development team.",
+				"twitter_handle": "",
+				"sessions": [],
+				"__v": 0,
+				"company": "Sencha",
+				"title": "Senior Software Engineer"
+			}
+		],
+		"__v": 1,
+		"order_index": 0,
+		"survey_link": "https://www.surveymonkey.com/s/BNQM8N5"
+	},
+	{
+		"_id": "550121410deea20300d0d452",
+		"title": "Introducing the all new JetBrains plugin for Ext JS",
+		"description": "",
+		"date": "2015-04-08",
+		"start_time": "2:30 PM",
+		"end_time": "3:20 PM",
+		"hashtag": "",
+		"track": {
+			"_id": "54f1369dd1bcf203004dafa6",
+			"name": "Develop",
+			"order_index": 2,
+			"__v": 0
+		},
+		"location": {
+			"_id": "54fd35b7a4198c0300081768",
+			"name": "Mission City Ballroom B5",
+			"__v": 0
+		},
+		"speakers": [
+			{
+				"_id": "54fdd2050fc1100300fcf1dc",
+				"avatar_url": "http://cdn2.hubspot.net/hub/439787/file-2520276462-jpg/img/headshots/MarkBrocato.jpg?t=1424529046577&amp;t=1425695939615",
+				"name": "Mark Brocato",
+				"bio": "Before coming to Sencha, Mark was the Director for R+D for BioFortis, a Life Sciences startup, where he lead the development of several ExtJS applications. Mark is also the creator of mockaroo.com, a web service for generating large fake datasets for software testing and demos. Mark has been developing with ExtJS since version 2 and is currently working on the ExtJS plugin for JetBrains IDEs such as IntelliJ and WebStorm.",
+				"twitter_handle": "",
+				"sessions": [],
+				"__v": 0,
+				"company": "Sencha",
+				"title": "Senior Software Engineer"
+			}
+		],
+		"__v": 1,
+		"order_index": 0,
+		"survey_link": "https://www.surveymonkey.com/s/BX6886D"
+	},
+	{
+		"_id": "550139e97c4c0d0300331060",
+		"title": "Farewell Beer Pairing",
+		"description": "",
+		"date": "2015-04-09",
+		"start_time": "5:30 PM",
+		"end_time": "7:00 PM",
+		"hashtag": "",
+		"track": {
+			"_id": "5500efe07c4c0d0300331048",
+			"name": "Networking",
+			"order_index": 0,
+			"__v": 0
+		},
+		"location": {
+			"_id": "5510b8a143dc86030034b9b6",
+			"name": "Mission City Ballroom Foyer",
+			"__v": 0
+		},
+		"speakers": [],
+		"__v": 0,
+		"order_index": 0,
+		"survey_link": ""
+	},
+	{
+		"_id": "5501355d0deea20300d0d46a",
+		"title": "Designing a library of Sencha components as packages ",
+		"description": "Many organizations creating applications using the Sencha Frameworks will find that they will accumulate a set of classes, components, and functions that they can reuse to construct subsequent applications. While it may be easy to copy the source files for these reusable building blocks, in the long run, it is far better to organize them into one or more packages that can be included in a target application as required. This session will demonstrate the process for designing a library of reusable code, organizing the code for the best use, and creating packages so that the code in the library can be included in the construction of one or more applications.",
+		"date": "2015-04-09",
+		"start_time": "3:40 PM",
+		"end_time": "4:30 PM",
+		"hashtag": "",
+		"track": {
+			"_id": "54f1369dd1bcf203004dafa6",
+			"name": "Develop",
+			"order_index": 2,
+			"__v": 0
+		},
+		"location": {
+			"_id": "54fd35b7a4198c0300081768",
+			"name": "Mission City Ballroom B5",
+			"__v": 0
+		},
+		"speakers": [
+			{
+				"_id": "54fdd20512b592030001d4f9",
+				"avatar_url": "http://cdn2.hubspot.net/hub/439787/file-2511562191-jpg/img/headshots/MarkLincoln.jpg?t=1424529046577&amp;t=1425695939615",
+				"name": "Mark Lincoln",
+				"bio": "After graduating from the University of Florida, Mark spent several years developing enterprise class applications using database languages like CA-Clipper, CA-Visual Objects, and Delphi. Once he discovered Web application development using ASP, ASP.NET, C#, and JavaScript, there was no turning back. He has been an avid user of ExtJS since its inception as an extension to the Yahoo UI framework (YUI-Ext). Mark resides in Arlington, VA where you can often find him out riding his bike, umpiring fast pitch softball, or coaching soccer when he is not developing leading edge solutions as a Senior Solutions Engineer for Sencha.",
+				"twitter_handle": "",
+				"sessions": [],
+				"__v": 0,
+				"company": "Sencha",
+				"title": "Senior Solutions Engineer"
+			}
+		],
+		"__v": 1,
+		"order_index": 0,
+		"survey_link": "https://www.surveymonkey.com/s/VH5RHQ3"
+	},
+	{
+		"_id": "550124650deea20300d0d453",
+		"title": "UX design for modern enterprise apps ",
+		"description": "Traditionally, User Experience (UX) has only been considered in the creation of consumer applications or websites where a company is selling a product or service. In the Enterprise, UX has either been ignored or relegated to an afterthought resulting in applications that are slow, clumsy and difficult to use. One of the reasons used by Enterprise application developers for the lack of focus on UX are these apps are usually very data intensive and data doesn’t have to be “pretty”. Unfortunately users have become accustomed to software that isn’t designed for normal human consumption. Using waterfall methodologies makes improvements so cumbersome and time intensive, Enterprise applications are usually UX deficient. Sencha frameworks are geared for data intensive applications and with the use of Architect, a designer has the ability to participate much earlier in the process. Using Architect means in organizations not accustomed to spending time on UX, they can start to make apps giving users not just functionality but true usability.\n\nThis talk defines what is UX and why UX it’s important in the Enterprise. It then covers how our team uses Architect to quickly prototype a User Interface (UI) component or application feature so our stakeholders can have concrete examples of how the feature might work. It also allows us to quickly iterate changes so the feature can be refined very early in the process. UX in the Enterprise is important as users spend more time in the applications at work than nearly any other environment. Effective UX not only makes the users life more efficient but these shouldn’t just supply data, they should help users understand and interpret data.",
+		"date": "2015-04-08",
+		"start_time": "3:40 PM",
+		"end_time": "4:30 PM",
+		"hashtag": "",
+		"track": {
+			"_id": "54f13696d1bcf203004dafa5",
+			"name": "Design",
+			"order_index": 1,
+			"__v": 0
+		},
+		"location": {
+			"_id": "54fd3529a4198c0300081766",
+			"name": "Mission City Ballroom B4",
+			"__v": 0
+		},
+		"speakers": [
+			{
+				"_id": "54fdd20212b592030001d4ee",
+				"avatar_url": "http://cdn2.hubspot.net/hub/439787/file-2560145452-jpg/img/headshots/PeterTierney.jpg?t=1425695939615",
+				"name": "Peter Tierney",
+				"bio": "Peter has nearly 20 years of experience in application development and management experience ranging from system architect to VP of Technology to team lead and mentor. He developed Flex/AIR applications for more than 8 years and found the conversion to Ext JS very complementary.",
+				"twitter_handle": "",
+				"sessions": [],
+				"__v": 0,
+				"company": "Williams",
+				"title": "IT Analyst IV"
+			}
+		],
+		"__v": 1,
+		"order_index": 0,
+		"survey_link": "https://www.surveymonkey.com/s/V6JRVVM"
+	},
+	{
+		"_id": "54f1368ed1bcf203004dafa4",
+		"title": "One app to rule them all: building apps for multi-device world",
+		"description": "Computing space is much more complicated today than it was 10 years ago, and it is now only natural to expect having same functionality and experience with apps and services whether you access them on your phone, tablet, desktop or (soon) even wearables. Responsiveness is a keyword that’s thrown around a lot, and while there are many ways existing technologies can help you achieve this, there is no one simple method that can be used to magically adapt an interface to different devices, and in the end nothing goes above good (interaction) design. This session will explore approaching responsiveness from the design perspective.",
+		"date": "2015-04-08",
+		"start_time": "1:30 PM",
+		"end_time": "2:20 PM",
+		"hashtag": "#oneapptorulethemall",
+		"speakers": [
+			{
+				"_id": "54f13706d1bcf203004dafa9",
+				"avatar_url": "http://cdn2.hubspot.net/hub/439787/file-2520276472-jpg/img/headshots/MiroBojic.jpg?t=1424529046577&t=1424796153192",
+				"name": "Miroslav Bojic",
+				"bio": "Miro has a dual background in Interaction Design and Computer Science. For the past three years at Sencha, he has worked primarily on designing developer tools, such as Sencha Architect, Animator as well as future Sencha tools, and he has a lot of experience with Ext JS Themes. Prior to Sencha, Miro worked as an interaction designer at Philips in the Netherlands. Miro has a doctorate degree in User System Interaction and is fluent in 3 languages (and conversational in an additional 3). When not designing, Miro enjoys riding his dutch bicycle (opafiets) in San Francisco.​",
+				"twitter_handle": "",
+				"sessions": [],
+				"__v": 0,
+				"company": "Sencha",
+				"title": "Software Engineer and Interaction Designer "
+			}
+		],
+		"__v": 1,
+		"location": {
+			"_id": "54fd3529a4198c0300081766",
+			"name": "Mission City Ballroom B4",
+			"__v": 0
+		},
+		"track": {
+			"_id": "54f13696d1bcf203004dafa5",
+			"name": "Design",
+			"order_index": 1,
+			"__v": 0
+		},
+		"order_index": 0,
+		"survey_link": "https://www.surveymonkey.com/s/V6G829R"
+	}
+]

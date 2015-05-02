@@ -1,0 +1,57 @@
+[
+	{
+		"_id": "54f91c7d11964dea9a1e08b1",
+		"name": "SenchaCon",
+		"__v": 0
+	},
+	{
+		"_id": "54fd3529a4198c0300081766",
+		"name": "Mission City Ballroom B4",
+		"__v": 0
+	},
+	{
+		"_id": "54fd35b7c57bbb03002c6f56",
+		"name": "Mission City Ballroom M2/M3",
+		"__v": 0
+	},
+	{
+		"_id": "54fd35b7a4198c0300081767",
+		"name": "Mission City Ballroom M1",
+		"__v": 0
+	},
+	{
+		"_id": "54fd35b7a4198c0300081768",
+		"name": "Mission City Ballroom B5",
+		"__v": 0
+	},
+	{
+		"_id": "54fdd22d0fc1100300fcf1e1",
+		"name": "Theater - 2nd Floor",
+		"__v": 0
+	},
+	{
+		"_id": "54fdd22d0fc1100300fcf1e2",
+		"name": "Community Pavilion - Exhibit Hall A",
+		"__v": 0
+	},
+	{
+		"_id": "5500d4517c4c0d0300331040",
+		"name": "Santa Clara Convention Center Main Lobby",
+		"__v": 0
+	},
+	{
+		"_id": "5500ee527c4c0d0300331042",
+		"name": "Grand Ballroom E & F",
+		"__v": 0
+	},
+	{
+		"_id": "550127470deea20300d0d456",
+		"name": "Levi's Stadium",
+		"__v": 0
+	},
+	{
+		"_id": "5510b8a143dc86030034b9b6",
+		"name": "Mission City Ballroom Foyer",
+		"__v": 0
+	}
+]
