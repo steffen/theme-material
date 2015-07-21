@@ -1,0 +1,50 @@
+[
+	{
+		"_id": "54f13696d1bcf203004dafa5",
+		"name": "Design",
+		"order_index": 1,
+		"__v": 0
+	},
+	{
+		"_id": "54f1369dd1bcf203004dafa6",
+		"name": "Develop",
+		"order_index": 2,
+		"__v": 0
+	},
+	{
+		"_id": "54f136a2d1bcf203004dafa7",
+		"name": "Deploy",
+		"order_index": 3,
+		"__v": 0
+	},
+	{
+		"_id": "54fdd22412b592030001d4fe",
+		"name": "Training",
+		"order_index": 0,
+		"__v": 0
+	},
+	{
+		"_id": "5500ef960deea20300d0d448",
+		"name": "Meals",
+		"order_index": 0,
+		"__v": 0
+	},
+	{
+		"_id": "5500efe07c4c0d0300331048",
+		"name": "Networking",
+		"order_index": 0,
+		"__v": 0
+	},
+	{
+		"_id": "5500f0350deea20300d0d44b",
+		"name": "Registration",
+		"order_index": 0,
+		"__v": 0
+	},
+	{
+		"_id": "5500f0e40deea20300d0d44d",
+		"name": "Keynote",
+		"order_index": 0,
+		"__v": 0
+	}
+]
