@@ -1,0 +1,62 @@
+{
+    "success": true,
+    "total": 7,
+    "data": [
+        {
+            "date": "2015-10-15T15:48:15.101Z",
+            "from": "Don Griffin",
+            "id": "208167f8-7bfb-461c-8371-8fce39a52243",
+            "message": "Check out the latest nightly!",
+            "timeid": "15-09-2015-17-48-17",
+            "roomId": 1
+        },
+        {
+            "date": "2015-10-15T15:48:19.101Z",
+            "from": "Steffen Hiller",
+            "id": "208167f8-7bfb-461c-8371-8fce39a52242",
+            "message": "Cool, will do!",
+            "timeid": "15-09-2015-17-48-17",
+            "roomId": 1
+        },
+        {
+            "date": "2015-10-15T15:48:15.101Z",
+            "from": "Don Griffin",
+            "id": "208167f8-7bfb-461c-8371-8fce39a52200",
+            "message": "6.0.1.76 is out!",
+            "timeid": "15-09-2015-17-48-17",
+            "roomId": 2
+        },
+        {
+            "date": "2015-10-15T15:48:19.101Z",
+            "from": "Brad Schafer",
+            "id": "208167f8-7bfb-461c-8371-8fce39a52201",
+            "message": "Nice!",
+            "timeid": "15-09-2015-17-48-17",
+            "roomId": 2
+        },
+        {
+            "date": "2015-10-15T15:48:30.885Z",
+            "from": "Steffen Hiller",
+            "id": "91eccb11-1d91-4762-aad0-83762bfadc13",
+            "message": "The prototype for the client is done.",
+            "timeid": "15-09-2015-17-48-20",
+            "roomId": 3
+        },
+        {
+            "date": "2015-10-15T15:48:40.885Z",
+            "from": "Max Fierro",
+            "id": "91eccb11-1d91-4762-aad0-83762bfadcbe",
+            "message": "Cool, I just completed a code review for another client.",
+            "timeid": "15-09-2015-17-48-20",
+            "roomId": 3
+        },
+        {
+            "date": "2015-10-15T15:48:50.885Z",
+            "from": "Brad Schafer",
+            "id": "91eccb11-1d91-4762-aad0-83762bfadree",
+            "message": "Just getting started with a Ext JS 6 upgrade of a huge app, going well so far.",
+            "timeid": "15-09-2015-17-48-20",
+            "roomId": 3
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "success": true,
+    "total": 3,
+    "data": [
+        {
+            "id": 1,
+            "isPrivate": false,
+            "isRoom": true,
+            "name": "Ext JS"
+        },
+        {
+            "id": 2,
+            "isPrivate": false,
+            "isRoom": true,
+            "name": "Sencha Cmd"
+        },
+        {
+            "id": 3,
+            "isPrivate": false,
+            "isRoom": true,
+            "name": "Sencha Services"
+        }
+    ]
+}

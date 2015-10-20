@@ -1,0 +1,46 @@
+{
+    "success": true,
+    "total": 3,
+    "data": [
+        {
+            "id": "1",
+            "roomId": "1",
+            "name": "Don Griffin"
+        },
+        {
+            "id": "2",
+            "roomId": "1",
+            "name": "Steffen Hiller"
+        },
+        {
+            "id": "3",
+            "roomId": "2",
+            "name": "Brad Schafer"
+        },
+        {
+            "id": "4",
+            "roomId": "2",
+            "name": "Don Griffin"
+        },
+        {
+            "id": "5",
+            "roomId": "2",
+            "name": "Steffen Hiller"
+        },
+        {
+            "id": "6",
+            "roomId": "3",
+            "name": "Brad Schafer"
+        },
+        {
+            "id": "7",
+            "roomId": "3",
+            "name": "Max Fierro"
+        },
+        {
+            "id": "8",
+            "roomId": "3",
+            "name": "Steffen Hiller"
+        },
+    ]
+}
