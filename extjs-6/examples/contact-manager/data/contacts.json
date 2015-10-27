@@ -2,19 +2,16 @@
     {
         "id": 1,
         "prefix": null,
-        "fname": "Art",
-        "mname": "",
-        "lname": "Landro",
+        "firstName": "Art",
+        "lastName": "Landro",
         "organization": "Sencha Inc.",
         "position": "CEO",
         "imageUrl": "",
-        "streetAddress": "",
-        "extendedAddress":"",
+        "street": "",
         "city": "",
         "state": "",
         "country": "",
-        "pincode": "",
-
+        "zipcode": "",
         "phoneNumbers": [
             {
                 "id": 1,
@@ -57,18 +54,16 @@
     {
         "id": 2,
         "prefix": "",
-        "fname": "Sanjay",
-        "mname": null,
-        "lname": "Uppal",
+        "firstName": "Sanjay",
+        "lastName": "Uppal",
         "organization": "Sencha Inc.",
         "position": "Senior Vice President and Chief Financial Officer",
         "imageUrl": null,
-        "streetAddress": "",
-        "extendedAddress":"",
+        "street": "",
         "city": "",
         "state": "",
         "country": "",
-        "pincode": "",
+        "zipcode": "",
 
         "phoneNumbers": [
             {
@@ -99,18 +94,16 @@
     {
         "id": 3,
         "prefix": "",
-        "fname": "Ted",
-        "mname": null,
-        "lname": "Driscoll",
+        "firstName": "Ted",
+        "lastName": "Driscoll",
         "organization": "Sencha Inc.",
         "position": "Vice President, Worldwide Sales",
         "imageUrl": null,
-        "streetAddress": "",
-        "extendedAddress":"",
+        "street": "",
         "city": "",
         "state": "",
         "country": "",
-        "pincode": "",
+        "zipcode": "",
 
         "phoneNumbers": [
             {
@@ -141,18 +134,16 @@
     {
         "id": 4,
         "prefix": "",
-        "fname": "Craig",
-        "mname": null,
-        "lname": "Gering",
+        "firstName": "Craig",
+        "lastName": "Gering",
         "organization": "Sencha Inc.",
         "position": "Vice President, Engineering",
         "imageUrl": null,
-        "streetAddress": "",
-        "extendedAddress":"",
+        "street": "",
         "city": "",
         "state": "",
         "country": "",
-        "pincode": "",
+        "zipcode": "",
 
         "phoneNumbers": [
             {
