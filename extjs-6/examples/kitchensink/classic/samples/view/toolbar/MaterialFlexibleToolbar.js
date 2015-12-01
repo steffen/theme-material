@@ -22,11 +22,6 @@ Ext.define('KitchenSink.view.toolbar.MaterialFlexibleToolbar', {
                 {
                     xtype: 'title',
                     text: 'Flexible Toolbar'
-                },
-                '->',
-                {
-                    icon: 'link',
-                    href: 'http://www.google.com/design/spec/layout/structure.html#structure-toolbars'
                 }
             ],
 

@@ -22,11 +22,6 @@ Ext.define('KitchenSink.view.toolbar.MaterialPrimaryToolbar', {
                 {
                     xtype: 'title',
                     text: 'Primary Toolbar'
-                },
-                '->',
-                {
-                    icon: 'link',
-                    href: 'http://www.google.com/design/spec/layout/structure.html#structure-toolbars'
                 }
             ],
 
@@ -57,7 +52,7 @@ Ext.define('KitchenSink.view.toolbar.MaterialPrimaryToolbar', {
                 {
                     bodyPadding: '8 0 32 0',
                     cls: 'example-caption',
-                    html: 'With shadow'
+                    html: 'Primary toolbar with shadow'
                 },
                 {
                     height: 120,
@@ -82,7 +77,7 @@ Ext.define('KitchenSink.view.toolbar.MaterialPrimaryToolbar', {
                 {
                     cls: 'example-caption',
                     bodyPadding: '8 0 24 0',
-                    html: 'Without shadow'
+                    html: 'Primary toolbar without shadow'
                 }
             ]
         }

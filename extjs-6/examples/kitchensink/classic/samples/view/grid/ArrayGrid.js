@@ -12,10 +12,6 @@ Ext.define('KitchenSink.view.grid.ArrayGrid', {
     ],
     xtype: 'array-grid',
     
-    margin: 24,
-    ui: 'material-card',
-    
-    
     store: 'Companies',
     stateful: true,
     collapsible: true,
@@ -53,12 +49,12 @@ Ext.define('KitchenSink.view.grid.ArrayGrid', {
             red: '#cf4c35'
         },
         material: {
-            config: {
-                height: '100%'
-            },
+            width: 760,
+            height: 550,
+            frame: true,
             priceWidth: 112,
             changeColumnWidth: 112,
-            percentChangeColumnWidth: 112,
+            percentChangeColumnWidth: 124,
             lastUpdatedColumnWidth: 140,
             actionColumnWidth: 80,
             green: '#4CAF50',
@@ -69,10 +65,13 @@ Ext.define('KitchenSink.view.grid.ArrayGrid', {
 
     initComponent: function () {
         var me = this;
-
-        console.log('this.profileInfo.priceWidth', this.profileInfo.priceWidth);
-        //debugger;
-        me.width = this.profileInfo.width;
+        
+        Ext.apply(this, {
+            width: this.profileInfo.width,
+            height: this.profileInfo.height,
+            frame: this.profileInfo.frame
+        });
+        
         me.columns = [
             {
                 text     : 'Company',

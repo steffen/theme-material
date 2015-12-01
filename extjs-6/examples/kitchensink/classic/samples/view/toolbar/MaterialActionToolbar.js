@@ -1,10 +1,6 @@
 Ext.define('KitchenSink.view.toolbar.MaterialActionToolbar', {
     extend: 'Ext.Panel',
-    xtype: 'material-basic-toolbar',
-
-    requires: [
-        'Material.container.plugin.FlexibleToolbar'
-    ],
+    xtype: 'material-action-toolbar',
 
     bodyPadding: 24,
 
@@ -19,7 +15,7 @@ Ext.define('KitchenSink.view.toolbar.MaterialActionToolbar', {
         tbar: [
             {
                 xtype: 'title',
-                text: 'Basic Toolbar'
+                text: 'Action Toolbar'
             }
         ],
 
@@ -29,30 +25,7 @@ Ext.define('KitchenSink.view.toolbar.MaterialActionToolbar', {
             {
                 frame: true,
                 tbar: {
-                    items: [
-                        {
-                            xtype: 'title',
-                            text: 'Title'
-                        },
-                        '->',
-                        {
-                            icon: 'search'
-                        },
-                        {
-                            icon: 'delete'
-                        },
-                        {
-                            icon: 'more_vert'
-                        }
-                    ]
-                },
-                html: 'Basic toolbar with icons'
-            },
-            
-            {
-                frame: true,
-                margin: '24 0 0 0',
-                tbar: {
+                    ui: 'action',
                     items: [
                         {
                             xtype: 'title',
@@ -67,13 +40,22 @@ Ext.define('KitchenSink.view.toolbar.MaterialActionToolbar', {
                         }
                     ]
                 },
-                html: 'Basic toolbar with text buttons'
+                html: 'Action toolbar with action buttons in header'
             },
             
             {
                 frame: true,
                 margin: '24 0 0 0',
+                tbar: {
+                    items: [
+                        {
+                            xtype: 'title',
+                            text: 'Title'
+                        }
+                    ]
+                },
                 bbar: {
+                    ui: 'action',
                     items: [
                         '->',
                         {
@@ -84,7 +66,7 @@ Ext.define('KitchenSink.view.toolbar.MaterialActionToolbar', {
                         }
                     ]
                 },
-                html: 'Basic toolbar with text buttons in footer'
+                html: 'Action toolbar with action buttons in footer'
             }
         ]
     }

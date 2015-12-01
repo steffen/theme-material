@@ -3,6 +3,7 @@ Ext.define('KitchenSink.controller.Samples', {
     namespace: 'KitchenSink',
 
     stores: [
-        'Companies'
+        'Companies',
+        'Restaurants'
     ]
 });

@@ -976,7 +976,7 @@
 .icon-material-basic-buttons:before {
 	content: "\e73b";
 }
-.icon-material-basic-toolbar:before {
+.icon-material-action-toolbar:before {
 	content: "\e747";
 }
 .icon-material-primary-toolbar:before {

@@ -11,7 +11,7 @@ Ext.define('KitchenSink.view.button.MaterialBasicButtons', {
     scrollable: true,
 
     defaults: {
-        ui: 'material-card',
+        frame: true,
         margin: '0 0 24 0'
     },
 
@@ -24,52 +24,84 @@ Ext.define('KitchenSink.view.button.MaterialBasicButtons', {
                 {
                     xtype: 'title',
                     text: 'Basic Buttons'
-                },
-                '->',
-                {
-                    icon: 'link',
-                    href: 'http://www.google.com/design/spec/components/buttons.html'
                 }
             ],
 
             bodyPadding: 24,
-            html: [
-                '<p>Material Design does not suggest using different button sizes (small, medium, large) and buttons with icons and text in one (as it is seen as redundant and noise).<br>',
-                'Instead buttons are shown automatically in their optimal size depending on device type (desktop, tablet or phone).</p>',
-                '<p>See available button styles below.</p>'
-            ].join('')
+            html: '<p>Material Design does not suggest using different button sizes such as small, medium and large. Instead buttons are shown automatically in their optimal size depending on device type (desktop, tablet or phone).</p>'
         },
 
         /**
-         * Flat Buttons
+         * Toolbar Buttons
          */
         {
-            itemId: 'flat-button',
             tbar: [
                 {
                     xtype: 'title',
-                    text: 'Flat Buttons'
+                    text: 'Toolbar Buttons'
                 },
                 '->',
                 {
-                    icon: 'link',
+                    icon: 'info',
+                    href: 'https://www.google.com/design/icons'
+                }
+            ],
+
+            bodyPadding: 24,
+            html: 'Use default toolbar buttons for toolbars with many buttons or that require menu buttons.',
+
+            bbar: [
+                {
+                    text: 'Text Button'
+                },
+                {
+                    text: 'Icon and Text Button',
+                    icon: 'format_color_text'
+                },
+                {
+                    text: 'Menu Button',
+                    icon: 'insert_photo',
+                    menu: [{
+                        text: 'Menu Button 1'
+                    }]
+                },
+                {
+                    icon: 'format_bold'
+                }
+            ]
+        },
+
+        /**
+         * Action Buttons
+         */
+        {
+            tbar: [
+                {
+                    xtype: 'title',
+                    text: 'Action Buttons'
+                },
+                '->',
+                {
+                    icon: 'info',
                     href: 'http://www.google.com/design/spec/components/buttons.html#buttons-flat-raised-buttons'
                 }
             ],
 
             bodyPadding: 24,
-            html: 'Use flat buttons for toolbars and dialogs to avoid excessive layering.',
+            html: 'Use flat action buttons for simple toolbars and dialogs to avoid excessive layering.',
 
-            bbar: [
-                '->',
-                {
-                    text: 'Button'
-                },
-                {
-                    text: 'Another Button'
-                },
-                '->'
-            ]
+            bbar: {
+                ui: 'action',
+                items: [
+                    '->',
+                    {
+                        text: 'Button'
+                    },
+                    {
+                        text: 'Another Button'
+                    }
+                ]
+            }
         },
 
         /**
@@ -84,7 +116,7 @@ Ext.define('KitchenSink.view.button.MaterialBasicButtons', {
                 },
                 '->',
                 {
-                    icon: 'link',
+                    icon: 'info',
                     href: 'http://www.google.com/design/spec/components/buttons.html#buttons-flat-raised-buttons'
                 }
             ],
@@ -137,7 +169,7 @@ Ext.define('KitchenSink.view.button.MaterialBasicButtons', {
                 },
                 '->',
                 {
-                    icon: 'link',
+                    icon: 'info',
                     href: 'http://www.google.com/design/spec/components/buttons-floating-action-button.html'
                 }
             ],
