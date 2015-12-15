@@ -26,10 +26,10 @@ Ext.define('KitchenSink.view.grid.ArrayGrid', {
     //<example>
     otherContent: [{
         type: 'Store',
-        path: 'classic/samples/store/Companies.js'
+        path: 'samples/store/Companies.js'
     },{
         type: 'Model',
-        path: 'classic/samples/model/Company.js'
+        path: 'samples/model/Company.js'
     }],
     profiles: {
         classic: {

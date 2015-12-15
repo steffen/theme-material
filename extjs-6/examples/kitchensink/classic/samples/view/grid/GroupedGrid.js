@@ -31,10 +31,10 @@ Ext.define('KitchenSink.view.grid.GroupedGrid', {
     //<example>
     otherContent: [{
         type: 'Store',
-        path: 'classic/samples/store/Restaurants.js'
+        path: 'samples/store/Restaurants.js'
     },{
         type: 'Model',
-        path: 'classic/samples/model/Restaurant.js'
+        path: 'samples/model/Restaurant.js'
     }],
     profiles: {
         classic: {

@@ -5,6 +5,10 @@ Ext.define('KitchenSink.view.window.MessageBox', {
     extend: 'Ext.panel.Panel',
     xtype: 'message-box',
     
+    requires: [
+        'Ext.window.Toast'
+    ],
+    
     //<example>
     exampleTitle: 'Message Box',
     otherContent: [{
