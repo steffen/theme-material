@@ -39,7 +39,7 @@ Ext.define('KitchenSink.view.panel.FramedPanels', {
                 xtype: 'panel',
                 height: 220,
                 margin: '0 0 8 0',
-                bodyPadding: 24,
+                bodyPadding: 16,
                 ui: 'material-card'
             }
         }
@@ -61,7 +61,14 @@ Ext.define('KitchenSink.view.panel.FramedPanels', {
             },
             {
                 title: 'Title',
-                bodyPadding: '0 24 24 24',
+                platformConfig: {
+                    '!phone': {
+                        bodyPadding: '0 24 24'
+                    },
+                    phone: {
+                        bodyPadding: '0 16 16'
+                    }
+                },
                 html: KitchenSink.DummyText.mediumText
             }
         ]);

@@ -4,77 +4,57 @@
 Ext.define('KitchenSink.view.form.LoginForm', {
     extend: 'Ext.form.Panel',
     xtype: 'form-login',
-
-    //<example>
-    exampleTitle: 'Login Form',
-    profiles: {
-        classic: {
-            labelWidth: 100
-        },
-        neptune: {
-            labelWidth: 120
-        },
-        gray: {
-            labelWidth: 100
-        },
-        "neptune-touch": {
-            labelWidth: 120
-        },
-        material: {
-            config: {
-                bodyPadding: '0 24 24 24',
-                buttons: [
-                    {},
-                    {
-                        ui: 'material-raised-colored'
-                    }
-                ]
-            },
-            labelWidth: 100
-        }
-    },
-    //</example>
     
-    // theme-material modern
-    cls: 'material-card',
-    
+    ui: 'material-card',
 
     title: 'Login',
-    centered: true,
-    frame: true,
-    width: 320,
-    bodyPadding: 10,
+
+    platformConfig: {
+        '!phone': {
+            centered: true,
+            width: 320,
+            bodyPadding: '0 24 24'
+        },
+        phone: {
+            centered: false,
+            width: null,
+            margin: 8,
+            bodyPadding: '0 16 16'
+        }
+    },
 
     defaultType: 'textfield',
 
-    items: [{
-        //allowBlank: false,
-        label: 'User ID',
-        name: 'user',
-        emptyText: 'user id'
-    }, {
-        //allowBlank: false,
-        fieldLabel: 'Password',
-        name: 'pass',
-        emptyText: 'password',
-        inputType: 'password'
-    }, {
-        xtype:'checkboxfield',
-        fieldLabel: 'Remember me',
-        name: 'remember'
-    }],
-
-    buttons: [
-        { text:'Register' },
-        { text:'Login' }
-    ],
-
-    initComponent: function() {
-        this.defaults = {
-            anchor: '100%',
-            labelWidth: this.profileInfo.labelWidth
-        };
-
-        this.callParent();
-    }
+    items: [
+        {
+            //allowBlank: false,
+            label: 'User ID',
+            name: 'user'
+        }, {
+            //allowBlank: false,
+            label: 'Password',
+            name: 'pass',
+            inputType: 'password'
+        }, {
+            xtype: 'checkboxfield',
+            label: 'Remember me',
+            name: 'remember'
+        },
+        {
+            xtype: 'toolbar',
+            docked: 'bottom',
+            ui: 'action',
+            cls: 'material-border-none',
+            items: [
+                '->',
+                {
+                    text: 'Register'
+                },
+                {
+                    ui: 'material-raised-colored',
+                    text: 'Login'
+                }
+            ]
+        }
+    ]
 });

@@ -55,7 +55,7 @@ Ext.define('KitchenSink.view.form.LoginForm', {
         inputType: 'password'
     }, {
         xtype:'checkbox',
-        fieldLabel: 'Remember me',
+        boxLabel: 'Remember me',
         name: 'remember'
     }],
 
