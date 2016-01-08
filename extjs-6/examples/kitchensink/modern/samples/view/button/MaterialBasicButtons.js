@@ -3,7 +3,7 @@ Ext.define('KitchenSink.view.button.MaterialBasicButtons', {
     xtype: 'material-basic-buttons',
 
     requires: [
-        'Material.FloatingActionButton'
+        'KitchenSink.view.button.MaterialFloatingActionButton'
     ],
 
     platformConfig: {
@@ -277,23 +277,25 @@ Ext.define('KitchenSink.view.button.MaterialBasicButtons', {
                         type: 'hbox',
                         pack: 'center'
                     },
+                    /**
+                     * For this example we're using a helper class for "materialfloatingactionbutton" that sets the
+                     * private floating property to false in order to show multiple floating action buttons.
+                     * Usually you only show one floating action button absolutely positioned on one view.
+                     * For that the best is using the "materialfloatingactionbutton" plugin.
+                     * See application examples for examples on how to use the floating action button properly.
+                     */
                     defaults: {
-                        margin: '24 24 24 0',
-                        floating: false,
-                        hidden: false
+                        xtype: 'kitchensinkmaterialfloatingactionbutton',
+                        margin: '24 24 24 0'
                     },
                     items: [
                         {
-                            xtype: 'materialfloatingactionbutton',
-                            floating: false
+                            icon: 'add'
                         },
                         {
-                            xtype: 'materialfloatingactionbutton',
-                            icon: 'edit',
-                            floating: false
+                            icon: 'edit'
                         },
                         {
-                            xtype: 'materialfloatingactionbutton',
                             icon: 'favorite'
                         }
                     ]

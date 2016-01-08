@@ -195,14 +195,15 @@ Ext.define('KitchenSink.view.button.MaterialBasicButtons', {
                     },
                     items: [
                         {
-                            xtype: 'floatingactionbutton'
+                            xtype: 'materialfloatingactionbutton',
+                            icon: 'add'
                         },
                         {
-                            xtype: 'floatingactionbutton',
+                            xtype: 'materialfloatingactionbutton',
                             icon: 'edit'
                         },
                         {
-                            xtype: 'floatingactionbutton',
+                            xtype: 'materialfloatingactionbutton',
                             icon: 'favorite'
                         }
                     ]
